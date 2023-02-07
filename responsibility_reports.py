@@ -12,6 +12,7 @@ from hashlib import md5
 import logging
 from selenium.common.exceptions import StaleElementReferenceException
 from pprint import PrettyPrinter
+import os
 
 pp = PrettyPrinter(indent=2)
 
@@ -224,7 +225,18 @@ class ClimateNeutral:
 
 class ResponsibilityReport:
     def __init__(self, **kwargs):
+        # set location using os.path.join or set it manually if needed...
+        path_loc = os.path.join(os.getcwd(), "temp")
+
         self.options = webdriver.ChromeOptions()
+        chrome_prefs = {
+            "download.prompt_for_download": False,
+            "plugins.always_open_pdf_externally": True,
+            "download.open_pdf_in_system_reader": False,
+            "profile.default_content_settings.popups": 0,
+            "download.default_directory": path_loc
+        }
+        self.options.add_experimental_option("prefs", chrome_prefs)
         is_headless = kwargs.get("headless", True)
         self.options.add_argument('--headless') if is_headless else None
         self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=self.options)
@@ -244,7 +256,9 @@ class ResponsibilityReport:
             try:
                 most_recent_el = self.driver.find_element(By.CLASS_NAME, "most_recent_content_block")
                 report_link_div = most_recent_el.find_element(By.CLASS_NAME, "view_btn")
-                print(report_link_div.find_element(By.TAG_NAME, "a").get_attribute("href"))
+                pdf_link = report_link_div.find_element(By.TAG_NAME, "a").get_attribute("href")
+                self.driver.get(pdf_link)
+                time.sleep(5)
             except Exception as e:
                 print("Error--------")
 

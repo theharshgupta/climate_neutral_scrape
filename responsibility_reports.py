@@ -15,7 +15,7 @@ from pprint import PrettyPrinter
 
 pp = PrettyPrinter(indent=2)
 
-AZN_BASE_URL = "https://www.climateneutral.org/"
+AZN_BASE_URL = "https://www.responsibilityreports.com/Companies?exch=2"
 
 ENDPOINTS = {
     "certified": Template("certified-brands?page=$page"),
@@ -222,6 +222,35 @@ class ClimateNeutral:
             except StaleElementReferenceException:
                 continue
 
+class ResponsibilityReport:
+    def __init__(self, **kwargs):
+        self.options = webdriver.ChromeOptions()
+        is_headless = kwargs.get("headless", True)
+        self.options.add_argument('--headless') if is_headless else None
+        self.driver = webdriver.Chrome(ChromeDriverManager().install(), options=self.options)
+        self.current_page_url = AZN_BASE_URL
+        self.driver.get(self.current_page_url)
+        time.sleep(3)
+        company_list = self.driver.find_elements(By.CLASS_NAME, "companyName")
+        self.company_urls = {}
+        for comp in company_list:
+            company_url = comp.find_element(By.TAG_NAME, "a")
+            self.company_urls[company_url.text] = company_url.get_attribute("href")
+
+        for name, url in self.company_urls.items():
+            self.driver.get(url)
+            time.sleep(1)
+            print(name)
+            try:
+                most_recent_el = self.driver.find_element(By.CLASS_NAME, "most_recent_content_block")
+                report_link_div = most_recent_el.find_element(By.CLASS_NAME, "view_btn")
+                print(report_link_div.find_element(By.TAG_NAME, "a").get_attribute("href"))
+            except Exception as e:
+                print("Error--------")
+
+        with open("responsibility_reports_data.json", mode="w", encoding="utf-8") as f:
+            json.dump(obj=self.output, fp=f, indent=2, default=str)
+
 
 if __name__ == '__main__':
     # options = webdriver.ChromeOptions()
@@ -230,5 +259,5 @@ if __name__ == '__main__':
     # test_company = CompanyPage("https://www.climateneutral.org/brand/22-degrees", driver)
     # test_company.extract_info()
     # test_company.driver.quit()
-    azn = ClimateNeutral(category="certified")
+    azn = ResponsibilityReport()
     azn.driver.quit()

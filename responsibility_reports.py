@@ -223,10 +223,12 @@ class ClimateNeutral:
             except StaleElementReferenceException:
                 continue
 
+
 class ResponsibilityReport:
     def __init__(self, **kwargs):
         # set location using os.path.join or set it manually if needed...
-        path_loc = os.path.join(os.getcwd(), "temp")
+        self.output = []
+        path_loc = os.path.join(os.getcwd(), "reports")
 
         self.options = webdriver.ChromeOptions()
         chrome_prefs = {
@@ -257,11 +259,15 @@ class ResponsibilityReport:
                 most_recent_el = self.driver.find_element(By.CLASS_NAME, "most_recent_content_block")
                 report_link_div = most_recent_el.find_element(By.CLASS_NAME, "view_btn")
                 pdf_link = report_link_div.find_element(By.TAG_NAME, "a").get_attribute("href")
+                self.output.append({
+                    "company_name": name,
+                    "url": url,
+                    "pdf_url": pdf_link
+                })
                 self.driver.get(pdf_link)
-                time.sleep(5)
+                time.sleep(3)
             except Exception as e:
-                print("Error--------")
-
+                print(f"Error: {e}")
         with open("responsibility_reports_data.json", mode="w", encoding="utf-8") as f:
             json.dump(obj=self.output, fp=f, indent=2, default=str)
 

@@ -24,6 +24,15 @@ ENDPOINTS = {
 ENCODING_STANDARD = "utf-8"
 BS_PARSER = "lxml"
 
+company_map = {}
+
+def extract_name_from_link(redirected_pdf_url: str):
+    if "/" in redirected_pdf_url:
+        pdf_filename = redirected_pdf_url.split('/')[-1].replace(".pdf", "")
+        if len(pdf_filename) > 0:
+            return pdf_filename
+    return None
+
 
 class ResponsibilityReport:
     def __init__(self, **kwargs):
@@ -45,7 +54,7 @@ class ResponsibilityReport:
         self.company_urls = {}
         self.pdf_mapping = {}
         self.output = []
-
+        self.old_report_links = set()
         self.driver.get(self.current_page_url)
         time.sleep(3)
         self.fetch_pdfs()
@@ -64,11 +73,45 @@ class ResponsibilityReport:
             self.company_urls = json.load(f)
 
         for i, (name, url) in enumerate(self.company_urls.items()):
-            # if i == 6:
-            #     break
             self.driver.get(url)
             time.sleep(2)
             print(name)
+            info = self.driver.find_element(By.CLASS_NAME, 'left_list_block').text.split("\n")
+            """
+            TICKER\nAAON\nEXCHANGE\nNASDAQ More\nINDUSTRY\nGeneral Building Materials More\nSECTOR\nIndustrial Goods More
+            """
+            ticker_name = info[1]
+            exchange = info[3].replace("More", "").strip()
+            industry = info[5].replace("More", "").strip()
+            sector = info[7].replace("More", "").strip()
+            about_company = self.driver.find_element(By.CLASS_NAME, 'company_description')
+            num_employees = self.driver.find_element(By.CLASS_NAME, 'employees')
+            location = self.driver.find_element(By.CLASS_NAME, 'location')
+            all_links = self.driver.find_elements(By.TAG_NAME, 'a')
+            company_map[name] = {
+                'info': {
+                    'company_name': name,
+                    'company_url': url,
+                    'ticker_name': ticker_name,
+                    'exchange': exchange,
+                    'industry': industry,
+                    'sector': sector,
+                    'about_company': about_company.text.strip(),
+                    'num_employees': num_employees.text.strip(),
+                    'location': location.text.strip()
+                },
+                'reports': []
+            }
+            for link in all_links:
+                link_href = link.get_attribute('href')
+                if link_href and "HostedData" in link_href:
+                    self.old_report_links.add(link_href)
+
+            for link in self.old_report_links:
+                company_map[name]["reports"].append({
+                    "pdf_url": link,
+                    "report_name": extract_name_from_link(link)
+                })
             try:
                 most_recent_el = self.driver.find_element(By.CLASS_NAME, "most_recent_content_block")
                 report_link_div = most_recent_el.find_element(By.CLASS_NAME, "view_btn")
@@ -76,25 +119,19 @@ class ResponsibilityReport:
                 redirected_pdf_url = requests.get(pdf_link).url
                 # self.driver.get(pdf_link)
                 # time.sleep()
-                self.output.append({
-                    "company_name": name,
-                    "url": url,
-                    "pdf_url": redirected_pdf_url
+                company_map[name]["reports"].append({
+                    "pdf_url": redirected_pdf_url,
+                    "report_name": extract_name_from_link(redirected_pdf_url)
                 })
-                if "/" in redirected_pdf_url:
-                    pdf_filename = redirected_pdf_url.split('/')[-1]
-                    if len(pdf_filename) > 0:
-                        self.pdf_mapping[pdf_filename] = name
-
                 # time.sleep(3)
             except Exception as e:
                 print(f"Error: {e}")
+            # print(company_map)
+        with open("responsibility_reports.json", mode="w", encoding="utf-8") as f:
+            json.dump(obj=company_map, fp=f, indent=2, default=str)
 
-        with open("report_name_mapping.json", mode="w", encoding="utf-8") as f:
-            json.dump(obj=self.pdf_mapping, fp=f, indent=2, default=str)
-
-        with open("responsibility_reports_data.json", mode="w", encoding="utf-8") as f:
-            json.dump(obj=self.output, fp=f, indent=2, default=str)
+        # with open("responsibility_reports_data.json", mode="w", encoding="utf-8") as f:
+        #     json.dump(obj=self.output, fp=f, indent=2, default=str)
 
 
 if __name__ == '__main__':

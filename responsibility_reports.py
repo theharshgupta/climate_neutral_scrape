@@ -2,6 +2,7 @@ from selenium import webdriver
 import urllib.request
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import NoSuchElementException
 from string import Template
 import requests
 from bs4 import BeautifulSoup
@@ -25,6 +26,7 @@ ENCODING_STANDARD = "utf-8"
 BS_PARSER = "lxml"
 
 company_map = {}
+
 
 def extract_name_from_link(redirected_pdf_url: str):
     if "/" in redirected_pdf_url:
@@ -75,20 +77,22 @@ class ResponsibilityReport:
         for i, (name, url) in enumerate(self.company_urls.items()):
             self.driver.get(url)
             time.sleep(2)
-            print(name)
             info = self.driver.find_element(By.CLASS_NAME, 'left_list_block').text.split("\n")
-            """
-            TICKER\nAAON\nEXCHANGE\nNASDAQ More\nINDUSTRY\nGeneral Building Materials More\nSECTOR\nIndustrial Goods More
-            """
             ticker_name = info[1]
             exchange = info[3].replace("More", "").strip()
             industry = info[5].replace("More", "").strip()
             sector = info[7].replace("More", "").strip()
             about_company = self.driver.find_element(By.CLASS_NAME, 'company_description')
-            num_employees = self.driver.find_element(By.CLASS_NAME, 'employees')
-            location = self.driver.find_element(By.CLASS_NAME, 'location')
+            try:
+                num_employees = self.driver.find_element(By.CLASS_NAME, 'employees')
+            except NoSuchElementException:
+                num_employees = 0
+            try:
+                location = self.driver.find_element(By.CLASS_NAME, 'location')
+            except NoSuchElementException:
+                location = "NA"
             all_links = self.driver.find_elements(By.TAG_NAME, 'a')
-            company_map[name] = {
+            company_data = {
                 'info': {
                     'company_name': name,
                     'company_url': url,
@@ -96,12 +100,13 @@ class ResponsibilityReport:
                     'exchange': exchange,
                     'industry': industry,
                     'sector': sector,
-                    'about_company': about_company.text.strip(),
-                    'num_employees': num_employees.text.strip(),
-                    'location': location.text.strip()
+                    'about_company': about_company.text.strip() if about_company else "NA",
+                    'num_employees': num_employees.text.strip() if type(num_employees) != int else "NA",
+                    'location': location.text.strip() if type(location) != str else "NA"
                 },
                 'reports': []
             }
+            company_map[name] = company_data
             for link in all_links:
                 link_href = link.get_attribute('href')
                 if link_href and "HostedData" in link_href:
@@ -112,6 +117,7 @@ class ResponsibilityReport:
                     "pdf_url": link,
                     "report_name": extract_name_from_link(link)
                 })
+            print(company_data)
             try:
                 most_recent_el = self.driver.find_element(By.CLASS_NAME, "most_recent_content_block")
                 report_link_div = most_recent_el.find_element(By.CLASS_NAME, "view_btn")
@@ -135,11 +141,5 @@ class ResponsibilityReport:
 
 
 if __name__ == '__main__':
-    # options = webdriver.ChromeOptions()
-    # options.add_argument('--headless')
-    # driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-    # test_company = CompanyPage("https://www.climateneutral.org/brand/22-degrees", driver)
-    # test_company.extract_info()
-    # test_company.driver.quit()
     azn = ResponsibilityReport()
     azn.driver.quit()

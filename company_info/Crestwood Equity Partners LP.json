@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Crestwood Equity Partners LP",
+    "company_url": "https://www.responsibilityreports.com/Company/crestwood-equity-partners-lp",
+    "ticker_name": "CEQP",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Midstream",
+    "sector": "Energy",
+    "about_company": "Crestwood Equity Partners LP is a publicly traded master limited partnership. Crestwoods operations include a natural gas storage business in Texas and an NGL and crude oil services business that serves customers in the United States and Canada. Through its general partner interest in Crestwood Mistream Partners, Crestwood Equity Partners is also engaged in the development and operation\u2026More",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Houston, Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CEQP_2019.pdf",
+      "report_name": "NASDAQ_CEQP_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CEQP_2018.pdf",
+      "report_name": "NASDAQ_CEQP_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CEQP_2021.pdf",
+      "report_name": "NASDAQ_CEQP_2021"
+    }
+  ]
+}

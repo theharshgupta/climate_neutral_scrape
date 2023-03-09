@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "BRP Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/BRPInc",
+    "ticker_name": "DOO",
+    "exchange": "NASDAQ",
+    "industry": "Recreational Goods, Other",
+    "sector": "Consumer Goods",
+    "about_company": "BRP Inc. designs, develops, manufactures, distributes, and markets powersports vehicles and propulsion systems worldwide. The company offers all-terrain vehicles, side-by-side vehicles, and roadsters under the Can-Am brand name; roadsters under the Spyder brand; snowmobiles under the Ski-Doo and Lynx brands; personal watercrafts under the Sea-Doo brand name; propulsion systems comprising\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Valcourt, Quebec"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/B/NASDAQ_DOO_2017.pdf",
+      "report_name": "NASDAQ_DOO_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/B/NASDAQ_DOO_2018.pdf",
+      "report_name": "NASDAQ_DOO_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_DOO_2022.pdf",
+      "report_name": "NASDAQ_DOO_2022"
+    }
+  ]
+}

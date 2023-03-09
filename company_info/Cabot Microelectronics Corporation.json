@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Cabot Microelectronics Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/cabot-microelectronics-corporation",
+    "ticker_name": "CCMP",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Integrated Circuits",
+    "sector": "Technology",
+    "about_company": "Cabot Microelectronics Corporation develops, manufactures, and sells polishing slurries and pads used in the manufacture of advanced integrated circuit (IC) devices in the semiconductor industry. The chemical mechanical planarization (CMP) technology is a polishing process used by IC device manufacturers to planarize or flatten the multiple layers of material that are deposited upon silicon\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Aurora, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CCMP_2020_051d3d469dd641b39ec76bf2266b6a54.pdf",
+      "report_name": "NASDAQ_CCMP_2020_051d3d469dd641b39ec76bf2266b6a54"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CCMP_2021.pdf",
+      "report_name": "NASDAQ_CCMP_2021"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Wynn Resorts Ltd",
+    "company_url": "https://www.responsibilityreports.com/Company/wynn-resorts-ltd",
+    "ticker_name": "WYNN",
+    "exchange": "NASDAQ",
+    "industry": "Resorts & Casinos",
+    "sector": "Services",
+    "about_company": "Wynn Resorts, Limited engages in the development, ownership, and operation of destination casino resorts.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Las Vegas, Nevada"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/w/NASDAQ_WYNN_2020.pdf",
+      "report_name": "NASDAQ_WYNN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/w/NASDAQ_WYNN_2018.pdf",
+      "report_name": "NASDAQ_WYNN_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/w/NASDAQ_WYNN_2019.pdf",
+      "report_name": "NASDAQ_WYNN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/w/NASDAQ_WYNN_2017.pdf",
+      "report_name": "NASDAQ_WYNN_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_WYNN_2021.pdf",
+      "report_name": "NASDAQ_WYNN_2021"
+    }
+  ]
+}

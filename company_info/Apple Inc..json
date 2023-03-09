@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "Apple Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/apple-inc",
+    "ticker_name": "AAPL",
+    "exchange": "NASDAQ",
+    "industry": "Consumer Services",
+    "sector": "Technology",
+    "about_company": "Apple Inc. designs, manufactures, and markets personal computers, mobile communication and media devices, and portable digital music players, as well as sells related software, services, peripherals, networking solutions, and third-party digital content and applications worldwide. The company sells its products worldwide through its online stores, retail stores, direct sales force, third-party\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Cupertino, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2015.pdf",
+      "report_name": "NASDAQ_AAPL_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2014.pdf",
+      "report_name": "NASDAQ_AAPL_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2017.pdf",
+      "report_name": "NASDAQ_AAPL_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2019.pdf",
+      "report_name": "NASDAQ_AAPL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2021.pdf",
+      "report_name": "NASDAQ_AAPL_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2016.pdf",
+      "report_name": "NASDAQ_AAPL_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AAPL_2018.pdf",
+      "report_name": "NASDAQ_AAPL_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AAPL_2022.pdf",
+      "report_name": "NASDAQ_AAPL_2022"
+    }
+  ]
+}

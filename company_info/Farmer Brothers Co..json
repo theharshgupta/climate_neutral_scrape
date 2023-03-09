@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "Farmer Brothers Co.",
+    "company_url": "https://www.responsibilityreports.com/Company/farmer-brothers-co",
+    "ticker_name": "FARM",
+    "exchange": "NASDAQ",
+    "industry": "Processed & Packaged Goods",
+    "sector": "Consumer Goods",
+    "about_company": "Farmer Bros. Co. engages in the manufacture, wholesale, and distribution of coffee, tea, and culinary products.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Northlake, Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2014.pdf",
+      "report_name": "NASDAQ_FARM_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2018.pdf",
+      "report_name": "NASDAQ_FARM_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2017.pdf",
+      "report_name": "NASDAQ_FARM_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2019.pdf",
+      "report_name": "NASDAQ_FARM_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2016.pdf",
+      "report_name": "NASDAQ_FARM_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2020.pdf",
+      "report_name": "NASDAQ_FARM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FARM_2015.pdf",
+      "report_name": "NASDAQ_FARM_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FARM_2021.pdf",
+      "report_name": "NASDAQ_FARM_2021"
+    }
+  ]
+}

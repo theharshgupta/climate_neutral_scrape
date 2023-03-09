@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Sonos Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/sonos-inc",
+    "ticker_name": "SONO",
+    "exchange": "NASDAQ",
+    "industry": "Consumer Services",
+    "sector": "Technology",
+    "about_company": "Sonos is a sound experience company. They pioneered multiroom wireless audio, made it sound brilliant, and changed the way people listen, making it effortless for them to enjoy what you want, where you want, how you want. Today millions of people in over 60 countries have made Sonos part of their lives. Their mission is to inspire the world to listen better. They remain focused on innovation\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Santa Barbara, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SONO_2019.pdf",
+      "report_name": "NASDAQ_SONO_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SONO_2020.pdf",
+      "report_name": "NASDAQ_SONO_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SONO_2018.pdf",
+      "report_name": "NASDAQ_SONO_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SONO_2021.pdf",
+      "report_name": "NASDAQ_SONO_2021"
+    }
+  ]
+}

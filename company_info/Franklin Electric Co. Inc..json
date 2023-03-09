@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Franklin Electric Co. Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/franklin-electric-co-inc",
+    "ticker_name": "FELE",
+    "exchange": "NASDAQ",
+    "industry": "Industrial Electrical Equipment",
+    "sector": "Industrial Goods",
+    "about_company": "Franklin Electric Co., Inc. engages in the design, manufacture, and distribution of groundwater and fuel pumping systems. It operates in two segments, Water Systems and Fueling Systems.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Fort Wayne, Indiana"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FELE_2020.pdf",
+      "report_name": "NASDAQ_FELE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FELE_2021.pdf",
+      "report_name": "NASDAQ_FELE_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FELE_2022.pdf",
+      "report_name": "NASDAQ_FELE_2022"
+    }
+  ]
+}

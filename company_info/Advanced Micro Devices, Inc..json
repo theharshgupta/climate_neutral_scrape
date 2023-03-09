@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Advanced Micro Devices, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/advanced-micro-devices-inc",
+    "ticker_name": "AMD",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Broad Line",
+    "sector": "Technology",
+    "about_company": "Advanced Micro Devices, Inc. operates as a semiconductor company worldwide. The company designs, develops, and sells microprocessor products, such as central processing unit (CPU) and accelerated processing unit (APU) for servers, desktop personal computers (PCs), and mobile devices.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Santa Clara, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMD_2020.pdf",
+      "report_name": "NASDAQ_AMD_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMD_2019.pdf",
+      "report_name": "NASDAQ_AMD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AMD_2021.pdf",
+      "report_name": "NASDAQ_AMD_2021"
+    }
+  ]
+}

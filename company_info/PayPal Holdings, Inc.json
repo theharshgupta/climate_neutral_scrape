@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "PayPal Holdings, Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/paypal-holdings-inc",
+    "ticker_name": "PYPL",
+    "exchange": "NASDAQ",
+    "industry": "Credit Services",
+    "sector": "Financial",
+    "about_company": "PayPal is a leading technology platform company that enables digital and mobile payments on behalf of consumers and merchants worldwide. They put their customers at the center of everything they do. They strive to increase our relevance for consumers, merchants, friends and family to access and move their money anywhere in the world, anytime, on any platform and through any device.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PYPL_2017.pdf",
+      "report_name": "NASDAQ_PYPL_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PYPL_2020.pdf",
+      "report_name": "NASDAQ_PYPL_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PYPL_2019.pdf",
+      "report_name": "NASDAQ_PYPL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PYPL_2018.pdf",
+      "report_name": "NASDAQ_PYPL_2018"
+    }
+  ]
+}

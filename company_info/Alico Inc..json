@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Alico Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/alico-inc",
+    "ticker_name": "ALCO",
+    "exchange": "NASDAQ",
+    "industry": "Farm Products",
+    "sector": "Consumer Goods",
+    "about_company": "Alico, Inc., through its subsidiaries, operates as a land management company in central and southwest Florida. It involves in harvesting, hauling, and marketing citrus, as well as purchasing and reselling citrus fruit; cultivating citrus trees; and cultivating raw sugarcane for sale. The company also engages in producing beef cattle, feeding cattle, and raising replacement heifers; and\u2026More",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Fort Myers, Florida"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ALCO_2021.pdf",
+      "report_name": "NASDAQ_ALCO_2021"
+    }
+  ]
+}

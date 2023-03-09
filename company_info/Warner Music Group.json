@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Warner Music Group",
+    "company_url": "https://www.responsibilityreports.com/Company/warner-music-group",
+    "ticker_name": "WMG",
+    "exchange": "NASDAQ",
+    "industry": "Music & Video Stores",
+    "sector": "--None--",
+    "about_company": "Warner Music Group is home to a collection of the best-known record labels and one of the world's leading music publishers. Warner Music Group is home to a collection of the best-known record labels in the music industry including Asylum, Atlantic, East West, Elektra, Fueled By Ramen, Nonesuch, Reprise, Rhino, Roadrunner, Rykodisc, Sire, Warner Records and Word, as well as Warner Chappell\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in New York City, New York"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/w/NASDAQ_WMG_2021.pdf",
+      "report_name": "NASDAQ_WMG_2021"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Allscripts Healthcare Solutions, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/allscripts-healthcare-solutions-inc",
+    "ticker_name": "MDRX",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare Information Services",
+    "sector": "Technology",
+    "about_company": "Allscripts Healthcare Solutions, Inc. provides clinical, financial, connectivity, and information solutions and related professional services to hospitals, physicians, and post-acute organizations primarily in the United States and Canada.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_MDRX_2020.pdf",
+      "report_name": "NASDAQ_MDRX_2020"
+    }
+  ]
+}

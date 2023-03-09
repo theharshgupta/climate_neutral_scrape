@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Syneos Health, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/syneos-health-inc",
+    "ticker_name": "SYNH",
+    "exchange": "NASDAQ",
+    "industry": "Diagnostic Substances",
+    "sector": "Healthcare",
+    "about_company": "Syneos Health (Nasdaq:SYNH) is the only fully integrated biopharmaceutical solutions organization. Their Company, including a Contract Research Organization (CRO) and Contract Commercial Organization (CCO), is purpose-built to accelerate customer performance to address modern market realities. Their Company brings together approximately 24,000 clinical and commercial minds with the ability\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Morrisville, North Carolina"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SYNH_2020.pdf",
+      "report_name": "NASDAQ_SYNH_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SYNH_2019.pdf",
+      "report_name": "NASDAQ_SYNH_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SYNH_2018.pdf",
+      "report_name": "NASDAQ_SYNH_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SYNH_2021.pdf",
+      "report_name": "NASDAQ_SYNH_2021"
+    }
+  ]
+}

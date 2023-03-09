@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Sleep Number Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/sleep-number-corporation",
+    "ticker_name": "SNBR",
+    "exchange": "NASDAQ",
+    "industry": "Home Furnishings & Fixtures",
+    "sector": "Consumer Goods",
+    "about_company": "Sleep Number delivers proven, quality sleep through effortless, adjustable comfort and biometric sleep tracking. Sleep Number's revolutionary 360\u00ae smart bed and proprietary SleepIQ\u00ae technology platforms are proving the connection between sleep and well-being. With one of the most comprehensive databases of biometric consumer sleep data and ranked #1 in J.D. Power's 2018 Mattress Satisfaction\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Minneapolis, Minnesota"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SNBR_2020.pdf",
+      "report_name": "NASDAQ_SNBR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SNBR_2019.pdf",
+      "report_name": "NASDAQ_SNBR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SNBR_2021.pdf",
+      "report_name": "NASDAQ_SNBR_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SNBR_2022.pdf",
+      "report_name": "NASDAQ_SNBR_2022"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "Mondelez International",
+    "company_url": "https://www.responsibilityreports.com/Company/mondelez-international",
+    "ticker_name": "MDLZ",
+    "exchange": "NASDAQ",
+    "industry": "Confectioners",
+    "sector": "Consumer Goods",
+    "about_company": "Mondel\u0113z International, Inc. (NASDAQ:MDLZ) is a global snacking powerhouse, with 2015 net revenues of approximately $30 billion. Creating delicious moments of joy in 165 countries, Mondel\u0113z International is a world leader in biscuits, chocolate, gum, candy and powdered beverages, with billion-dollar brands such as Oreo, LU and Nabisco biscuits; Cadbury, Cadbury Dairy Milk and Milka chocolate\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2018.pdf",
+      "report_name": "NASDAQ_MDLZ_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2017.pdf",
+      "report_name": "NASDAQ_MDLZ_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2014.pdf",
+      "report_name": "NASDAQ_MDLZ_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2015.pdf",
+      "report_name": "NASDAQ_MDLZ_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2020.pdf",
+      "report_name": "NASDAQ_MDLZ_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ.pdf",
+      "report_name": "NASDAQ_MDLZ"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2016.pdf",
+      "report_name": "NASDAQ_MDLZ_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MDLZ_2013.pdf",
+      "report_name": "NASDAQ_MDLZ_2013"
+    }
+  ]
+}

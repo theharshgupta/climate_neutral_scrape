@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Diodes Incorporated",
+    "company_url": "https://www.responsibilityreports.com/Company/diodes-incorporated",
+    "ticker_name": "DIOD",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Integrated Circuits",
+    "sector": "Technology",
+    "about_company": "Diodes Incorporated a Standard & Poor's SmallCap 600 and Russell 3000 Index company, is a leading global manufacturer and supplier of high-quality application specific standard products within the broad discrete and analog semiconductor markets, serving the consumer , computing, communications, industrial and automotive markets.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Plano, Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DIOD_2019.pdf",
+      "report_name": "NASDAQ_DIOD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DIOD_2020.pdf",
+      "report_name": "NASDAQ_DIOD_2020"
+    }
+  ]
+}

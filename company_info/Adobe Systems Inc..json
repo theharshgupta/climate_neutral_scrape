@@ -1,0 +1,51 @@
+{
+  "info": {
+    "company_name": "Adobe Systems Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/adobe-systems-inc",
+    "ticker_name": "ADBE",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Adobe Systems Incorporated operates as a diversified software company in the Americas, Europe, the Middle East, Africa, and Asia. It offers a line of creative, business, Web, and mobile software and services used by creative professionals, knowledge workers, developers, marketers, enterprises, and consumers.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2019.pdf",
+      "report_name": "NASDAQ_ADBE_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2020.pdf",
+      "report_name": "NASDAQ_ADBE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2015.pdf",
+      "report_name": "NASDAQ_ADBE_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2018.pdf",
+      "report_name": "NASDAQ_ADBE_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2016.pdf",
+      "report_name": "NASDAQ_ADBE_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2014.pdf",
+      "report_name": "NASDAQ_ADBE_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2017.pdf",
+      "report_name": "NASDAQ_ADBE_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADBE_2013.pdf",
+      "report_name": "NASDAQ_ADBE_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ADBE_2021.pdf",
+      "report_name": "NASDAQ_ADBE_2021"
+    }
+  ]
+}

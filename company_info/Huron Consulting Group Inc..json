@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Huron Consulting Group Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/huron-consulting-group-inc",
+    "ticker_name": "HURN",
+    "exchange": "NASDAQ",
+    "industry": "Management Services",
+    "sector": "Services",
+    "about_company": "Huron Consulting Group Inc. provides operational and financial consulting services in the United States.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HURN_2020.pdf",
+      "report_name": "NASDAQ_HURN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HURN_2019.pdf",
+      "report_name": "NASDAQ_HURN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_HURN_2021.pdf",
+      "report_name": "NASDAQ_HURN_2021"
+    }
+  ]
+}

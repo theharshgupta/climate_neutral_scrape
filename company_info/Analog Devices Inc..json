@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Analog Devices Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/analog-devices-inc",
+    "ticker_name": "ADI",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Integrated Circuits",
+    "sector": "Technology",
+    "about_company": "Analog Devices, Inc. engages in the design, manufacture, and marketing of analog, mixed-signal, and digital signal processing integrated circuits used in industrial, communication, computer, and consumer applications. The company\u2019s products convert real-world phenomena, such as light, sound, temperature, motion, and pressure into electrical signals.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Wilmington, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADI_2020.pdf",
+      "report_name": "NASDAQ_ADI_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADI_2015.pdf",
+      "report_name": "NASDAQ_ADI_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADI_2013.pdf",
+      "report_name": "NASDAQ_ADI_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ADI_2019.pdf",
+      "report_name": "NASDAQ_ADI_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ADI_2021.pdf",
+      "report_name": "NASDAQ_ADI_2021"
+    }
+  ]
+}

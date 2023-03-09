@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Papa John's International Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/papa-johns-international-inc",
+    "ticker_name": "PZZA",
+    "exchange": "NASDAQ",
+    "industry": "Restaurants",
+    "sector": "Services",
+    "about_company": "Papa John's International, Inc. operates and franchises pizza delivery and carryout restaurants under the Papa John's trademark worldwide. The company also operates dine-in and restaurant-based delivery restaurants in certain international markets.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Louisville, Kentucky"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PZZA_2019.pdf",
+      "report_name": "NASDAQ_PZZA_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PZZA_2020.pdf",
+      "report_name": "NASDAQ_PZZA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PZZA_2021.pdf",
+      "report_name": "NASDAQ_PZZA_2021"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Amyris",
+    "company_url": "https://www.responsibilityreports.com/Company/amyris",
+    "ticker_name": "AMRS",
+    "exchange": "NASDAQ",
+    "industry": "Specialty Chemicals",
+    "sector": "Basic Materials",
+    "about_company": "Amyris is the integrated renewable products company that is enabling the world\u2019s leading brands to achieve sustainable growth. Amyris applies its innovative bioscience solutions to convert plant sugars into hydrocarbon molecules, specialty ingredients and consumer products.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Emeryville, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMRS_2020.pdf",
+      "report_name": "NASDAQ_AMRS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AMRS_2021.pdf",
+      "report_name": "NASDAQ_AMRS_2021"
+    }
+  ]
+}

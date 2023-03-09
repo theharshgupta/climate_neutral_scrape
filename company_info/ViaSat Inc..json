@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "ViaSat Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/viasat-inc",
+    "ticker_name": "VSAT",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "ViaSat, Inc. designs, produces, and markets satellite and other wireless communication, and networking systems for government and commercial customers",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Carlsbad, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/v/NASDAQ_VSAT_2021.pdf",
+      "report_name": "NASDAQ_VSAT_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_VSAT_2022.pdf",
+      "report_name": "NASDAQ_VSAT_2022"
+    }
+  ]
+}

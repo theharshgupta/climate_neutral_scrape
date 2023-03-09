@@ -1,0 +1,39 @@
+{
+  "info": {
+    "company_name": "Netgear Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/netgear-inc",
+    "ticker_name": "NTGR",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "NETGEAR, Inc. (Nasdaq: NTGR) designs, develops and markets technologically advanced, branded networking products that address the specific needs of small and medium businesses and home users.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NTGR_2018.pdf",
+      "report_name": "NASDAQ_NTGR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NTGR_2017.pdf",
+      "report_name": "NASDAQ_NTGR_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NTGR_2016.pdf",
+      "report_name": "NASDAQ_NTGR_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NTGR_2019.pdf",
+      "report_name": "NASDAQ_NTGR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NTGR_2020.pdf",
+      "report_name": "NASDAQ_NTGR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_NTGR_2021.pdf",
+      "report_name": "NASDAQ_NTGR_2021"
+    }
+  ]
+}

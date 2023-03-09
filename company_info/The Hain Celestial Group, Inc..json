@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "The Hain Celestial Group, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/the-hain-celestial-group-inc",
+    "ticker_name": "HAIN",
+    "exchange": "NASDAQ",
+    "industry": "Processed & Packaged Goods",
+    "sector": "Consumer Goods",
+    "about_company": "The Hain Celestial Group, Inc. manufactures, markets, distributes, and sells natural and organic products in the United States and internationally",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Lake Success, New York"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_HAIN_2015.pdf",
+      "report_name": "NASDAQ_HAIN_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_HAIN_2018.pdf",
+      "report_name": "NASDAQ_HAIN_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_HAIN_2018.pdf",
+      "report_name": "NASDAQ_HAIN_2018"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Kaiser Aluminum Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/kaiser-aluminum-corporation",
+    "ticker_name": "KALU",
+    "exchange": "NASDAQ",
+    "industry": "Aluminum",
+    "sector": "Basic Materials",
+    "about_company": "Kaiser Aluminum Corporation produces and sells semi-fabricated specialty aluminum products primarily in the United States and Canada.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Foothill Ranch, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KALU_2019.pdf",
+      "report_name": "NASDAQ_KALU_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KALU_2020.pdf",
+      "report_name": "NASDAQ_KALU_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KALU_2018.pdf",
+      "report_name": "NASDAQ_KALU_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_KALU_2021.pdf",
+      "report_name": "NASDAQ_KALU_2021"
+    }
+  ]
+}

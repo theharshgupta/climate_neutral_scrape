@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "CyrusOne Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/cyrusone-inc",
+    "ticker_name": "CONE",
+    "exchange": "NASDAQ",
+    "industry": "REIT - Diversified",
+    "sector": "Financial",
+    "about_company": "CyrusOne Inc., a real estate investment trust (REIT), owns, operates, and develops enterprise-class, carrier-neutral, and multi-tenant data center properties. The company provides mission-critical data center facilities that protect and ensure the continued operation of information technology infrastructure. Its customers operate in various industries, including energy, oil and gas, mining\u2026More",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Dallas, Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CONE_2021.pdf",
+      "report_name": "NASDAQ_CONE_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CONE_2020.pdf",
+      "report_name": "NASDAQ_CONE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CONE_2022.pdf",
+      "report_name": "NASDAQ_CONE_2022"
+    }
+  ]
+}

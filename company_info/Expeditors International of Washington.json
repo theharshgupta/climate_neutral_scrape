@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Expeditors International of Washington",
+    "company_url": "https://www.responsibilityreports.com/Company/expeditors-international-of-washington",
+    "ticker_name": "EXPD",
+    "exchange": "NASDAQ",
+    "industry": "Air Delivery & Freight Services",
+    "sector": "Services",
+    "about_company": "Expeditors International of Washington, Inc. provides logistics services in the United States and internationally. The company's services include consolidation or forwarding air and ocean freight; distribution management; vendor consolidation; cargo insurance; purchase order management; and customized logistics information.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Seattle, Washington"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXPD_2019.pdf",
+      "report_name": "NASDAQ_EXPD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXPD_2020.pdf",
+      "report_name": "NASDAQ_EXPD_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXPD_2018.pdf",
+      "report_name": "NASDAQ_EXPD_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_EXPD_2021.pdf",
+      "report_name": "NASDAQ_EXPD_2021"
+    }
+  ]
+}

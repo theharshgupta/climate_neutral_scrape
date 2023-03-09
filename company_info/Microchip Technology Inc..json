@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Microchip Technology Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/microchip-technology-inc",
+    "ticker_name": "MCHP",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor- Memory Chips",
+    "sector": "Technology",
+    "about_company": "Microchip Technology Inc. (NASDAQ: MCHP) is a leading provider of microcontroller, mixed-signal, analog and Flash-IP solutions, providing low-risk product development, lower total system cost and faster time to market for thousands of diverse customer applications worldwide.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chandler, Arizona"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MCHP_2019.pdf",
+      "report_name": "NASDAQ_MCHP_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MCHP_2020.pdf",
+      "report_name": "NASDAQ_MCHP_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MCHP_2018.pdf",
+      "report_name": "NASDAQ_MCHP_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_MCHP_2021.pdf",
+      "report_name": "NASDAQ_MCHP_2021"
+    }
+  ]
+}

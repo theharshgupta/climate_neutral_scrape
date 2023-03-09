@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Oportun Financial Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/oportun-financial-corporation",
+    "ticker_name": "OPRT",
+    "exchange": "NASDAQ",
+    "industry": "Credit Services",
+    "sector": "Financial",
+    "about_company": "Oportun (Nasdaq: OPRT) is a mission-driven Community Development Financial Institution (CDFI). Oportun provides inclusive, affordable financial services powered by a deep, data-driven understanding of its customers and advanced proprietary technology. By lending money to hardworking, low-to-moderate-income individuals, Oportun helps them move forward in their lives, demonstrate their creditworthiness\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Carlos, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/o/NASDAQ_OPRT_2020.pdf",
+      "report_name": "NASDAQ_OPRT_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_OPRT_2021.pdf",
+      "report_name": "NASDAQ_OPRT_2021"
+    }
+  ]
+}

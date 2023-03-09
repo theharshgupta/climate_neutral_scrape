@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "The Cheesecake Factory Incorporated",
+    "company_url": "https://www.responsibilityreports.com/Company/the-cheesecake-factory-incorporated",
+    "ticker_name": "CAKE",
+    "exchange": "NASDAQ",
+    "industry": "Restaurants",
+    "sector": "Services",
+    "about_company": "The Cheesecake Factory Incorporated operates upscale, casual, full-service dining restaurants in the United States. As of February 23, 2012, the company operated 170 dining restaurants, including 156 restaurants under The Cheesecake Factory mark in 35 states and the District of Columbia; 13 restaurants under the Grand Lux Cafe mark in 9 states; and 1 restaurant under the RockSugar Pan Asian\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Calabasas Hills, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CAKE_2019.pdf",
+      "report_name": "NASDAQ_CAKE_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CAKE_2020.pdf",
+      "report_name": "NASDAQ_CAKE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CAKE_2021.pdf",
+      "report_name": "NASDAQ_CAKE_2021"
+    }
+  ]
+}

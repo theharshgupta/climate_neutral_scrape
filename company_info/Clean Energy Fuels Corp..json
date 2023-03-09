@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Clean Energy Fuels Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/clean-energy-fuels-corp",
+    "ticker_name": "CLNE",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Refining & Marketing",
+    "sector": "Energy",
+    "about_company": "Clean Energy is the largest provider of vehicular natural gas in North America with a broad customer base in the refuse, transit, shuttle, taxi, intrastate and interstate trucking, airport and municipal fleet markets with tens of thousands of vehicles fueling at strategic locations in the United States and Canada.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Newport Beach, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CLNE_2020.pdf",
+      "report_name": "NASDAQ_CLNE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CLNE_2017.pdf",
+      "report_name": "NASDAQ_CLNE_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CLNE_2016.pdf",
+      "report_name": "NASDAQ_CLNE_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CLNE_2021.pdf",
+      "report_name": "NASDAQ_CLNE_2021"
+    }
+  ]
+}

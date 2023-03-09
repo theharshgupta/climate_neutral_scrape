@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Perrigo Co.",
+    "company_url": "https://www.responsibilityreports.com/Company/perrigo-co",
+    "ticker_name": "PRGO",
+    "exchange": "NASDAQ",
+    "industry": "Drug Related Products",
+    "sector": "Healthcare",
+    "about_company": "Perrigo Company develops, manufactures, and distributes over-the-counter (OTC) and generic prescription (Rx) pharmaceuticals, infant formulas, nutritional products, and active pharmaceutical ingredients (API) worldwide.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Dublin, Ireland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGO_2019.pdf",
+      "report_name": "NASDAQ_PRGO_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGO_2020.pdf",
+      "report_name": "NASDAQ_PRGO_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGO_2018.pdf",
+      "report_name": "NASDAQ_PRGO_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PRGO_2021.pdf",
+      "report_name": "NASDAQ_PRGO_2021"
+    }
+  ]
+}

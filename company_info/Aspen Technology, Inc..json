@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Aspen Technology, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/aspen-technology-inc",
+    "ticker_name": "AZPN",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Aspen Technology, Inc. provides software and services to the process industries worldwide. The company operates in two segments, Subscription and Software, and Services. It develops software that optimizes the design and operation of process manufacturing plants, and the management of supply chains of energy and chemical companies.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Bedford, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AZPN_2021.pdf",
+      "report_name": "NASDAQ_AZPN_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AZPN_2019.pdf",
+      "report_name": "NASDAQ_AZPN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AZPN_2020.pdf",
+      "report_name": "NASDAQ_AZPN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AZPN_2022.pdf",
+      "report_name": "NASDAQ_AZPN_2022"
+    }
+  ]
+}

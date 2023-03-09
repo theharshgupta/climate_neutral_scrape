@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Universal Display Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/universal-display-corporation",
+    "ticker_name": "OLED",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor Equipment & Materials",
+    "sector": "Technology",
+    "about_company": "Universal Display Corporation engages in the research, development, and commercialization of organic light emitting diode (OLED) technologies and materials for use in flat panel display, solid-state lighting, and other product applications.",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Ewing, New Jersey"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_PANL_2017.pdf",
+      "report_name": "NASDAQ_PANL_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_OLED_2020.pdf",
+      "report_name": "NASDAQ_OLED_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_PANL_2019.pdf",
+      "report_name": "NASDAQ_PANL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_OLED_2021.pdf",
+      "report_name": "NASDAQ_OLED_2021"
+    }
+  ]
+}

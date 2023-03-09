@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "CME Group Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cme-group-inc",
+    "ticker_name": "CME",
+    "exchange": "NASDAQ",
+    "industry": "Investment Brokerage - National",
+    "sector": "Financial",
+    "about_company": "CME Group Inc. operates the CME, CBOT, NYMEX and COMEX futures exchanges worldwide. The company provides a range of products across various asset classes, such as interest rates, equity indexes, foreign exchange, energy, agricultural commodities, metals, weather, and real estate.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CME_2019.pdf",
+      "report_name": "NASDAQ_CME_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CME_2020.pdf",
+      "report_name": "NASDAQ_CME_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CME_2021.pdf",
+      "report_name": "NASDAQ_CME_2021"
+    }
+  ]
+}

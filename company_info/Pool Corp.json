@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Pool Corp",
+    "company_url": "https://www.responsibilityreports.com/Company/pool-corp",
+    "ticker_name": "POOL",
+    "exchange": "NASDAQ",
+    "industry": "Wholesale, Other",
+    "sector": "Industrial Goods",
+    "about_company": "Pool Corporation engages in the distribution of swimming pool supplies, equipment, related leisure products, and irrigation and landscape products primarily in North America and Europe.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Covington, Louisiana"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_POOL_2021.pdf",
+      "report_name": "NASDAQ_POOL_2021"
+    }
+  ]
+}

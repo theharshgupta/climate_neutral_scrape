@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Garmin Ltd.",
+    "company_url": "https://www.responsibilityreports.com/Company/garmin-ltd",
+    "ticker_name": "GRMN",
+    "exchange": "NASDAQ",
+    "industry": "Scientific & Technical Instruments",
+    "sector": "Technology",
+    "about_company": "The global leader in satellite navigation, Garmin Ltd. and its subsidiaries have designed, manufactured, marketed and sold navigation, communication and information devices and applications since 1989 \u2013 most of which are enabled by GPS technology. Garmin\u2019s products serve automotive, mobile, wireless, outdoor recreation, marine, aviation, and OEM applications. Garmin Ltd. is incorporated\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Olathe, Kansas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GRMN_2020.pdf",
+      "report_name": "NASDAQ_GRMN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GRMN_2014.pdf",
+      "report_name": "NASDAQ_GRMN_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GRMN_2019.pdf",
+      "report_name": "NASDAQ_GRMN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GRMN_2016.pdf",
+      "report_name": "NASDAQ_GRMN_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GRMN_2021.pdf",
+      "report_name": "NASDAQ_GRMN_2021"
+    }
+  ]
+}

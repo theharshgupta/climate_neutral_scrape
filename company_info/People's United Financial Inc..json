@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "People's United Financial Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/peoples-united-financial-inc",
+    "ticker_name": "PBCT",
+    "exchange": "NASDAQ",
+    "industry": "Savings & Loans",
+    "sector": "Financial",
+    "about_company": "People\u2019s United Financial, Inc. operates as the bank holding company for People\u2019s United Bank that provides commercial banking, retail and business banking, and wealth management services to individual, corporate, and municipal customers.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Bridgeport, Connecticut"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PBCT_2019.pdf",
+      "report_name": "NASDAQ_PBCT_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PBCT_2020.pdf",
+      "report_name": "NASDAQ_PBCT_2020"
+    }
+  ]
+}

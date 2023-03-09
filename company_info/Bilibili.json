@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Bilibili",
+    "company_url": "https://www.responsibilityreports.com/Company/bilibili",
+    "ticker_name": "BILI",
+    "exchange": "NASDAQ",
+    "industry": "--None--",
+    "sector": "Technology",
+    "about_company": "Bili (bilibili) was founded on June 26th, 2009. It is nicknamed \u201cB Station\u201d by fans and is now the leading young cultural community in China. The B station features a real-time comment feature that floats above the video. Fans call it a \u201cbouncer.\u201d This unique video experience allows Internet-based barrage to transcend time and space constraints and create a wonderful synchronicity. The\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Shanghai, China"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BILI_2020.pdf",
+      "report_name": "NASDAQ_BILI_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_BILI_2021.pdf",
+      "report_name": "NASDAQ_BILI_2021"
+    }
+  ]
+}

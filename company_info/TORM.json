@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "TORM",
+    "company_url": "https://www.responsibilityreports.com/Company/torm",
+    "ticker_name": "TORM",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Midstream",
+    "sector": "Energy",
+    "about_company": "TORM was founded in 1889 and has sailed the seas since then. With headquarters in London and activities worldwide, TORM is listed on Nasdaq Copenhagen and New York . TORM\u2019s offices are located in Houston, London, Copenhagen, Manila, Cebu, Mumbai, New Delhi and Singapore. TORM employs approx. 3,000 seafarers and 275 land-based staff.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Copenhagen, Denmark"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TORM_2020.pdf",
+      "report_name": "NASDAQ_TORM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TORM_2017.pdf",
+      "report_name": "NASDAQ_TORM_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TORM_2019.pdf",
+      "report_name": "NASDAQ_TORM_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TORM_2016.pdf",
+      "report_name": "NASDAQ_TORM_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TORM_2018.pdf",
+      "report_name": "NASDAQ_TORM_2018"
+    }
+  ]
+}

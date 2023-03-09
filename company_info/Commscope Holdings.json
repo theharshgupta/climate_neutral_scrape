@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "Commscope Holdings",
+    "company_url": "https://www.responsibilityreports.com/Company/commscope-holdings",
+    "ticker_name": "COMM",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "CommScope helps companies around the world design, build and manage their wired and wireless networks. Our vast portfolio of network infrastructure includes some of the world\u2019s most robust and innovative wireless and fiber optic solutions. Our talented and experienced global team is driven to help customers increase bandwidth; maximize existing capacity; improve network performance and\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Hickory, North Carolina"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2018.pdf",
+      "report_name": "NASDAQ_COMM_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2017.pdf",
+      "report_name": "NASDAQ_COMM_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2015.pdf",
+      "report_name": "NASDAQ_COMM_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2019.pdf",
+      "report_name": "NASDAQ_COMM_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2014.pdf",
+      "report_name": "NASDAQ_COMM_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2013.pdf",
+      "report_name": "NASDAQ_COMM_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COMM_2016.pdf",
+      "report_name": "NASDAQ_COMM_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_COMM_2021.pdf",
+      "report_name": "NASDAQ_COMM_2021"
+    }
+  ]
+}

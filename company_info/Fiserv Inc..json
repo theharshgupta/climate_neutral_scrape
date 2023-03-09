@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Fiserv Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/fiserv-inc",
+    "ticker_name": "FISV",
+    "exchange": "NASDAQ",
+    "industry": "Information Technology Services",
+    "sector": "Technology",
+    "about_company": "Fiserv Inc. is the leading global provider of information management and electronic commerce systems for the financial services industry.They are trusted by more than 16,000 clients worldwide including banks, credit unions and thrifts of all sizes; mortgage lenders and leasing companies; telecommunications and utility companies; brokerage and investment firms; healthcare and insurance providers\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Brookfield, Wisconsin"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FISV_2020.pdf",
+      "report_name": "NASDAQ_FISV_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FISV_2021.pdf",
+      "report_name": "NASDAQ_FISV_2021"
+    }
+  ]
+}

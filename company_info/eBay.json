@@ -1,0 +1,39 @@
+{
+  "info": {
+    "company_name": "eBay",
+    "company_url": "https://www.responsibilityreports.com/Company/ebay",
+    "ticker_name": "EBAY",
+    "exchange": "NASDAQ",
+    "industry": "Internet Service Providers",
+    "sector": "Consumer Goods",
+    "about_company": "eBay Inc. provides online marketplaces for the sale of goods and services, as well as other online commerce, platforms, and online payment solutions to individuals and businesses in the United States and internationally. The company\u2019s Marketplaces segment provides the infrastructure to enable online commerce on a range of platforms, including the eBay.com platform, and its localized platforms",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EBAY_2017.pdf",
+      "report_name": "NASDAQ_EBAY_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EBAY_2020.pdf",
+      "report_name": "NASDAQ_EBAY_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EBAY_2019.pdf",
+      "report_name": "NASDAQ_EBAY_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EBAY_2016.pdf",
+      "report_name": "NASDAQ_EBAY_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EBAY_2018.pdf",
+      "report_name": "NASDAQ_EBAY_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_EBAY_2021.pdf",
+      "report_name": "NASDAQ_EBAY_2021"
+    }
+  ]
+}

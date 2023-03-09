@@ -1,0 +1,43 @@
+{
+  "info": {
+    "company_name": "Caesars Entertainment Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/caesars-entertainment-corporation",
+    "ticker_name": "CZR",
+    "exchange": "NASDAQ",
+    "industry": "Resorts & Casinos",
+    "sector": "Services",
+    "about_company": "Caesars Entertainment Corporation provides casino-entertainment and hospitality services in the United States and internationally. It operates in four segments: Caesars Entertainment Resort Properties, Caesars Growth Partners Casino Properties and Developments, Caesars Interactive Entertainment, and Caesars Entertainment Operating Company.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Las Vegas, Nevada"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2019.pdf",
+      "report_name": "NASDAQ_CZR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2017.pdf",
+      "report_name": "NASDAQ_CZR_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2018.pdf",
+      "report_name": "NASDAQ_CZR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2016.pdf",
+      "report_name": "NASDAQ_CZR_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2015.pdf",
+      "report_name": "NASDAQ_CZR_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CZR_2014.pdf",
+      "report_name": "NASDAQ_CZR_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CZR_2020.pdf",
+      "report_name": "NASDAQ_CZR_2020"
+    }
+  ]
+}

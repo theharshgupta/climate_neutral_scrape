@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Sanmina-SCI Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/sanmina-sci-corp",
+    "ticker_name": "SANM",
+    "exchange": "NASDAQ",
+    "industry": "Printed Circuit Boards",
+    "sector": "Technology",
+    "about_company": "Sanmina-SCI Corporation is a leading electronics contract manufacturer serving the fastest-growing segments of the electronics manufacturing services (EMS) market.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SANM_2020.pdf",
+      "report_name": "NASDAQ_SANM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SANM_2021.pdf",
+      "report_name": "NASDAQ_SANM_2021"
+    }
+  ]
+}

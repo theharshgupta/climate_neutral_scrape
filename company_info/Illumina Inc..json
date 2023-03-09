@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Illumina Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/illumina-inc",
+    "ticker_name": "ILMN",
+    "exchange": "NASDAQ",
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "about_company": "Illumina, Inc. develops, manufactures, and markets integrated systems for the analysis of genetic variation and biological function.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in San Diego, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ILMN_2021.pdf",
+      "report_name": "NASDAQ_ILMN_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ILMN_2020.pdf",
+      "report_name": "NASDAQ_ILMN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ILMN_2022.pdf",
+      "report_name": "NASDAQ_ILMN_2022"
+    }
+  ]
+}

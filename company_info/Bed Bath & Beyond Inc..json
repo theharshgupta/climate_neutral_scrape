@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Bed Bath & Beyond Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/bed-bath-beyond-inc",
+    "ticker_name": "BBBY",
+    "exchange": "NASDAQ",
+    "industry": "Home Furnishing Stores",
+    "sector": "Services",
+    "about_company": "Bed Bath & Beyond Inc. operates a chain of home furnishing stores with such merchandise as bed linens and related items, bath items, kitchen textiles, kitchen and tabletop items, fine tabletop, basic housewares, and general home furnishings.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Union, New Jersey"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BBBY_2020.pdf",
+      "report_name": "NASDAQ_BBBY_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BBBY_2019.pdf",
+      "report_name": "NASDAQ_BBBY_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BBBY_2018.pdf",
+      "report_name": "NASDAQ_BBBY_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_BBBY_2021.pdf",
+      "report_name": "NASDAQ_BBBY_2021"
+    }
+  ]
+}

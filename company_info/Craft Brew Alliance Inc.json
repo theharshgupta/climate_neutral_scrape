@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Craft Brew Alliance Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/craft-brew-alliance-inc",
+    "ticker_name": "BREW",
+    "exchange": "NASDAQ",
+    "industry": "Beverages - Brewers",
+    "sector": "Consumer Goods",
+    "about_company": "Craft Brewers Alliance, Inc. operates the Widmer Brothers brewery in Portland, Ore., and Redhook breweries in Woodinville, Wash., and Portsmouth, N.H. The Company distributes its award-winning products and those of Kona Brewing Company throughout the United States via a network of wholesale distributors and a distribution alliance with Anheuser-Busch, Incorporated.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Portland, Oregon"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_BREW_2017.pdf",
+      "report_name": "NASDAQ_BREW_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_BREW_2018.pdf",
+      "report_name": "NASDAQ_BREW_2018"
+    }
+  ]
+}

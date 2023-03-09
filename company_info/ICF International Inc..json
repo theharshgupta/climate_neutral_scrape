@@ -1,0 +1,55 @@
+{
+  "info": {
+    "company_name": "ICF International Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/icf-international-inc",
+    "ticker_name": "ICFI",
+    "exchange": "NASDAQ",
+    "industry": "Management Services",
+    "sector": "Industrial Goods",
+    "about_company": "ICF International, Inc. provides management, technology, and policy consulting and implementation services to government, commercial, and international clients.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Fairfax, Virginia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2020.pdf",
+      "report_name": "NASDAQ_ICFI_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2018.pdf",
+      "report_name": "NASDAQ_ICFI_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2019.pdf",
+      "report_name": "NASDAQ_ICFI_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2013.pdf",
+      "report_name": "NASDAQ_ICFI_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2016.pdf",
+      "report_name": "NASDAQ_ICFI_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2012.pdf",
+      "report_name": "NASDAQ_ICFI_2012"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2014.pdf",
+      "report_name": "NASDAQ_ICFI_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2015.pdf",
+      "report_name": "NASDAQ_ICFI_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_ICFI_2017.pdf",
+      "report_name": "NASDAQ_ICFI_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ICFI_2021.pdf",
+      "report_name": "NASDAQ_ICFI_2021"
+    }
+  ]
+}

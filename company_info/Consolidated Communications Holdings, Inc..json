@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Consolidated Communications Holdings, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/consolidated-communications-holdings-inc",
+    "ticker_name": "CNSL",
+    "exchange": "NASDAQ",
+    "industry": "Telecom Services - Domestic",
+    "sector": "Technology",
+    "about_company": "Consolidated Communications Holdings, Inc. (NASDAQ:CNSL) is a leading broadband and business communications provider serving consumers, businesses of all sizes, and wireless companies and carriers, across a 24-state service area. Leveraging its advanced fiber optic network spanning more than 36,000 fiber route miles, Consolidated Communications offers a wide range of communications solutions\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Mattoon, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CNSL_2020.pdf",
+      "report_name": "NASDAQ_CNSL_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CNSL_2019.pdf",
+      "report_name": "NASDAQ_CNSL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CNSL_2021.pdf",
+      "report_name": "NASDAQ_CNSL_2021"
+    }
+  ]
+}

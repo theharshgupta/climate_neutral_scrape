@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Atlantica Yield PLC",
+    "company_url": "https://www.responsibilityreports.com/Company/atlantica-yield-plc",
+    "ticker_name": "AY",
+    "exchange": "NASDAQ",
+    "industry": "Electric Utilities",
+    "sector": "Utilities",
+    "about_company": "Atlantica Yield plc is a total return company that owns a diversified portfolio of contracted renewable energy, power generation, electric transmission and water assets in North & South America, and certain markets in EMEA.",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Brentford, London"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AY_2019.pdf",
+      "report_name": "NASDAQ_AY_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AY_2018.pdf",
+      "report_name": "NASDAQ_AY_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AY_2020.pdf",
+      "report_name": "NASDAQ_AY_2020"
+    }
+  ]
+}

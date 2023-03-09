@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Star Bulk Carriers Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/star-bulk-carriers-corp",
+    "ticker_name": "SBLK",
+    "exchange": "NASDAQ",
+    "industry": "Shipping",
+    "sector": "Industrial Goods",
+    "about_company": "Star Bulk is a global shipping company providing worldwide seaborne transportation solutions in the dry bulk sector. Star Bulk\u2019s vessels transport major bulks, which include iron ore, minerals and grain, and minor bulks, which include bauxite, fertilizers and steel products. Star Bulk was incorporated in the Marshall Islands on December 13, 2006 and maintains executive offices in Athens\u2026More",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Maroussi, Greece"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SBLK_2018.pdf",
+      "report_name": "NASDAQ_SBLK_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SBLK_2019.pdf",
+      "report_name": "NASDAQ_SBLK_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SBLK_2020.pdf",
+      "report_name": "NASDAQ_SBLK_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SBLK_2021.pdf",
+      "report_name": "NASDAQ_SBLK_2021"
+    }
+  ]
+}

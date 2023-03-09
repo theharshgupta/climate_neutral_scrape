@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Extreme Networks, Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/extreme-networks-inc",
+    "ticker_name": "EXTR",
+    "exchange": "NASDAQ",
+    "industry": "Networking & Communication Devices",
+    "sector": "Technology",
+    "about_company": "Extreme Networks, Inc. provides wired and wireless network infrastructure equipment, software, and services for enterprises, data centers, and service providers. The company offers Black Diamond products, which deliver modular or chassis-based Ethernet connectivity solutions that have a range of management and line cards allowing customers to configure and re-purpose the systems; and Summit\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXTR_2020.pdf",
+      "report_name": "NASDAQ_EXTR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_EXTR_2021.pdf",
+      "report_name": "NASDAQ_EXTR_2021"
+    }
+  ]
+}

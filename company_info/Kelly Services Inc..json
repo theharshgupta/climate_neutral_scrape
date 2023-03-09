@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Kelly Services Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/kelly-services-inc",
+    "ticker_name": "KELYA",
+    "exchange": "NASDAQ",
+    "industry": "Staffing & Outsourcing Services",
+    "sector": "Services",
+    "about_company": "Kelly Services, Inc. provides workforce solutions to various industries worldwide.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Troy, Michigan"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KELYA_2016.pdf",
+      "report_name": "NASDAQ_KELYA_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KELYA_2018.pdf",
+      "report_name": "NASDAQ_KELYA_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KELYA_2020.pdf",
+      "report_name": "NASDAQ_KELYA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KELYA_2019.pdf",
+      "report_name": "NASDAQ_KELYA_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KELYA_2014.pdf",
+      "report_name": "NASDAQ_KELYA_2014"
+    }
+  ]
+}

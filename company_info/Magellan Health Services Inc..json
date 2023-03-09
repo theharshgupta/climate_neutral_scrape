@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Magellan Health Services Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/magellan-health-services-inc",
+    "ticker_name": "MGLN",
+    "exchange": "NASDAQ",
+    "industry": "Health Care Plans",
+    "sector": "Healthcare",
+    "about_company": "Magellan Health Services, Inc. provides managed behavioral healthcare, radiology benefits management, specialty pharmaceutical management, and Medicaid administration products and services in the United States.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Scottsdale, Arizona"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_MGLN_2017.pdf",
+      "report_name": "NASDAQ_MGLN_2017"
+    }
+  ]
+}

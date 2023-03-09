@@ -1,0 +1,43 @@
+{
+  "info": {
+    "company_name": "Deckers Outdoor Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/deckers-outdoor-corp",
+    "ticker_name": "DECK",
+    "exchange": "NASDAQ",
+    "industry": "Textile - Apparel Footwear & Accessories",
+    "sector": "Consumer Goods",
+    "about_company": "Deckers Outdoor Corporation builds niche products into global lifestyle brands by designing and marketing innovative, functional and fashion-oriented footwear developed for both high performance outdoor activities and everyday casual lifestyle use. Teva(R), Simple(R) and UGG(R) are registered trademarks of Deckers Outdoor Corporation.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Goleta, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2020.pdf",
+      "report_name": "NASDAQ_DECK_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2017.pdf",
+      "report_name": "NASDAQ_DECK_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2018.pdf",
+      "report_name": "NASDAQ_DECK_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2019.pdf",
+      "report_name": "NASDAQ_DECK_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2016.pdf",
+      "report_name": "NASDAQ_DECK_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DECK_2014.pdf",
+      "report_name": "NASDAQ_DECK_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_DECK_2021.pdf",
+      "report_name": "NASDAQ_DECK_2021"
+    }
+  ]
+}

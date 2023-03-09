@@ -1,0 +1,67 @@
+{
+  "info": {
+    "company_name": "Marriott International, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/marriott-international-inc",
+    "ticker_name": "MAR",
+    "exchange": "NASDAQ",
+    "industry": "Lodging",
+    "sector": "Services",
+    "about_company": "Marriott International, Inc. (NASDAQ: MAR) is based in Bethesda, Maryland, USA, and encompasses a portfolio of more than 6,100 properties in 30 leading hotel brands spanning 124 countries and territories. Marriott operates and franchises hotels and licenses vacation ownership resorts all around the world.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Bethesda, Maryland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2021.pdf",
+      "report_name": "NASDAQ_MAR_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2013.pdf",
+      "report_name": "NASDAQ_MAR_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2020.pdf",
+      "report_name": "NASDAQ_MAR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2016.pdf",
+      "report_name": "NASDAQ_MAR_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2015.pdf",
+      "report_name": "NASDAQ_MAR_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2019.pdf",
+      "report_name": "NASDAQ_MAR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2018.pdf",
+      "report_name": "NASDAQ_MAR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2017.pdf",
+      "report_name": "NASDAQ_MAR_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2014.pdf",
+      "report_name": "NASDAQ_MAR_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2009.pdf",
+      "report_name": "NASDAQ_MAR_2009"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2010.pdf",
+      "report_name": "NASDAQ_MAR_2010"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MAR_2011.pdf",
+      "report_name": "NASDAQ_MAR_2011"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_MAR_2022.pdf",
+      "report_name": "NASDAQ_MAR_2022"
+    }
+  ]
+}

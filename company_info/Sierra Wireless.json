@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Sierra Wireless",
+    "company_url": "https://www.responsibilityreports.com/Company/sierra-wireless",
+    "ticker_name": "SWIR",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "Sierra Wireless, Inc., together with its subsidiaries, provides wireless solutions for the machine-to-machine (M2M) and mobile computing markets.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Richmond, British Columbia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SWIR_2018.pdf",
+      "report_name": "NASDAQ_SWIR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SWIR_2019.pdf",
+      "report_name": "NASDAQ_SWIR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SWIR_2017.pdf",
+      "report_name": "NASDAQ_SWIR_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SWIR_2020.pdf",
+      "report_name": "NASDAQ_SWIR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SWIR_2021.pdf",
+      "report_name": "NASDAQ_SWIR_2021"
+    }
+  ]
+}

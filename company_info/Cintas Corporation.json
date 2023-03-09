@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Cintas Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/cintas-corporation",
+    "ticker_name": "CTAS",
+    "exchange": "NASDAQ",
+    "industry": "Apparel Stores",
+    "sector": "Services",
+    "about_company": "Cintas Corporation provides corporate identity uniforms and related business services in North America, Latin America, Europe, and Asia.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Cincinnati, Ohio"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CTAS_2020.pdf",
+      "report_name": "NASDAQ_CTAS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CTAS_2021.pdf",
+      "report_name": "NASDAQ_CTAS_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CTAS_2022.pdf",
+      "report_name": "NASDAQ_CTAS_2022"
+    }
+  ]
+}

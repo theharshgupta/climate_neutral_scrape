@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "CarGurus",
+    "company_url": "https://www.responsibilityreports.com/Company/cargurus",
+    "ticker_name": "CARG",
+    "exchange": "NASDAQ",
+    "industry": "Internet Information Providers",
+    "sector": "Technology",
+    "about_company": "CarGurus, they\u2019re building the world\u2019s most trusted and transparent automotive marketplace where it\u2019s easy to find great deals from top-rated dealers and sellers. Founded in 2006 by Langley Steinert (co-founder of TripAdvisor), CarGurus uses proprietary technology, search algorithms and innovative data analytics to simplify the process of car shopping and selling. As they work to deliver\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Cambridge, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CARG_2020.pdf",
+      "report_name": "NASDAQ_CARG_2020"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Casey's General Stores Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/caseys-general-stores-inc",
+    "ticker_name": "CASY",
+    "exchange": "NASDAQ",
+    "industry": "Grocery Stores",
+    "sector": "Services",
+    "about_company": "Casey\u2019s General Stores, Inc. operates convenience stores under the Casey\u2019s General Store, HandiMart, and Just Diesel names in 11 Midwestern states, primarily Iowa, Missouri, and Illinois.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Ankeny, Lowa"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CASY_2021.pdf",
+      "report_name": "NASDAQ_CASY_2021"
+    }
+  ]
+}

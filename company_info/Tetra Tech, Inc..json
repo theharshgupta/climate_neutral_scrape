@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Tetra Tech, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/tetra-tech-inc",
+    "ticker_name": "TTEK",
+    "exchange": "NASDAQ",
+    "industry": "Technical Services",
+    "sector": "Services",
+    "about_company": "Tetra Tech, Inc. provides consulting, engineering, program management, construction management, and technical services for resource management and infrastructure markets in the United States and internationally.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Pasadena, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TTEK_2020.pdf",
+      "report_name": "NASDAQ_TTEK_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TTEK_2021.pdf",
+      "report_name": "NASDAQ_TTEK_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_TTEK_2021.pdf",
+      "report_name": "NASDAQ_TTEK_2021"
+    }
+  ]
+}

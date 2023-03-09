@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "AGNC Investment Corp",
+    "company_url": "https://www.responsibilityreports.com/Company/agnc-investment-corp",
+    "ticker_name": "AGNC",
+    "exchange": "NASDAQ",
+    "industry": "REIT - Mortgage",
+    "sector": "Real Estate",
+    "about_company": "AGNC Investment Corp. is an internally-managed real estate investment trust that invests primarily in agency pass-through securities and collateralized mortgage obligations for which the principal and interest payments are guaranteed by a U.S. Government agency or a U.S. Government-sponsored entity.",
+    "num_employees": "51-200 Employees",
+    "location": "Based in Bethesda, Maryland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AGNC_2020.pdf",
+      "report_name": "NASDAQ_AGNC_2020"
+    }
+  ]
+}

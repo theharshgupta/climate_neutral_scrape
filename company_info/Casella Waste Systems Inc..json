@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "Casella Waste Systems Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/casella-waste-systems-inc",
+    "ticker_name": "CWST",
+    "exchange": "NASDAQ",
+    "industry": "Waste Management",
+    "sector": "Industrial Goods",
+    "about_company": "Casella Waste Systems, Inc., headquartered in Rutland, Vermont, provides solid waste management services consisting of collection, transfer, disposal, and recycling services in the northeastern United States.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Rutland, Vermont"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2014.pdf",
+      "report_name": "NASDAQ_CWST_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2019.pdf",
+      "report_name": "NASDAQ_CWST_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2012.pdf",
+      "report_name": "NASDAQ_CWST_2012"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2020.pdf",
+      "report_name": "NASDAQ_CWST_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2018.pdf",
+      "report_name": "NASDAQ_CWST_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2021.pdf",
+      "report_name": "NASDAQ_CWST_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2009.pdf",
+      "report_name": "NASDAQ_CWST_2009"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CWST_2010.pdf",
+      "report_name": "NASDAQ_CWST_2010"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Selective Insurance Group",
+    "company_url": "https://www.responsibilityreports.com/Company/selective-insurance-group",
+    "ticker_name": "SIGI",
+    "exchange": "NASDAQ",
+    "industry": "Property & Casualty Insurance",
+    "sector": "Financial",
+    "about_company": "Selective Insurance Group primarily engages in providing property and casualty insurance products and services in the eastern and midwestern regions of the United States. The company operates in two segments, Insurance Operations and Investments.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Branchville, New Jersey"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SIGI_2020.pdf",
+      "report_name": "NASDAQ_SIGI_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SIGI_2021.pdf",
+      "report_name": "NASDAQ_SIGI_2021"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Blackbaud Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/blackbaud-inc",
+    "ticker_name": "BLKB",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Blackbaud is the leading global provider of software and services designed specifically for nonprofit organizations, enabling them to improve operational efficiency, build strong relationships, and raise more money to support their missions.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Charleston, South Carolina"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BLKB_2019.pdf",
+      "report_name": "NASDAQ_BLKB_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/b/NASDAQ_BLKB_2018.pdf",
+      "report_name": "NASDAQ_BLKB_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_BLKB_2020.pdf",
+      "report_name": "NASDAQ_BLKB_2020"
+    }
+  ]
+}

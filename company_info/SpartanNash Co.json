@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "SpartanNash Co",
+    "company_url": "https://www.responsibilityreports.com/Company/spartannash-co",
+    "ticker_name": "SPTN",
+    "exchange": "NASDAQ",
+    "industry": "Food Wholesale",
+    "sector": "Services",
+    "about_company": "SpartanNash Company operates as a grocery distributor and retailer primarily in the United States. The company operates in three segments: Military, Food Distribution, and Retail. The Military segment sells and distributes grocery products to military commissaries and exchanges located in 37 states across the United States and the District of Columbia, Europe, Puerto Rico, Cuba, Egypt\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Grand Rapids, Michigan"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPTN_2020.pdf",
+      "report_name": "NASDAQ_SPTN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPTN_2016.pdf",
+      "report_name": "NASDAQ_SPTN_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPTN_2019.pdf",
+      "report_name": "NASDAQ_SPTN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPTN_2017.pdf",
+      "report_name": "NASDAQ_SPTN_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SPTN_2021.pdf",
+      "report_name": "NASDAQ_SPTN_2021"
+    }
+  ]
+}

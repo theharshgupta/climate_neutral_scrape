@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "SolarEdge",
+    "company_url": "https://www.responsibilityreports.com/Company/solaredge",
+    "ticker_name": "SEDG",
+    "exchange": "NASDAQ",
+    "industry": "--None--",
+    "sector": "Technology",
+    "about_company": "SolarEdge is a global leader in smart energy technology. By leveraging world-class engineering capabilities and with a relentless focus on innovation, SolarEdge creates smart energy solutions that power their lives and drive future progress. Established in 2006, SolarEdge developed the DC optimized inverter solution that changed the way power is harvested and managed in photovoltaic (PV\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Herzliya, Israel"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SEDG_2019.pdf",
+      "report_name": "NASDAQ_SEDG_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SEDG_2020.pdf",
+      "report_name": "NASDAQ_SEDG_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SEDG_2018.pdf",
+      "report_name": "NASDAQ_SEDG_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SEDG_2021.pdf",
+      "report_name": "NASDAQ_SEDG_2021"
+    }
+  ]
+}

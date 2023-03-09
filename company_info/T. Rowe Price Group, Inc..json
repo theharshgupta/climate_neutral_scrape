@@ -1,0 +1,43 @@
+{
+  "info": {
+    "company_name": "T. Rowe Price Group, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/t-rowe-price-group-inc",
+    "ticker_name": "TROW",
+    "exchange": "NASDAQ",
+    "industry": "Asset Management",
+    "sector": "Financial",
+    "about_company": "T. Rowe Price Group, Inc. is a publicly owned asset management holding company. The firm primarily provides its services to individual and institutional investors, retirement plans, and financial intermediaries. Through its subsidiaries, it manages separate client-focused equity, fixed income, and balanced portfolios.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Baltimore, Maryland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2016.pdf",
+      "report_name": "NASDAQ_TROW_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2014.pdf",
+      "report_name": "NASDAQ_TROW_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2018.pdf",
+      "report_name": "NASDAQ_TROW_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2017.pdf",
+      "report_name": "NASDAQ_TROW_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2020.pdf",
+      "report_name": "NASDAQ_TROW_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TROW_2019.pdf",
+      "report_name": "NASDAQ_TROW_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_TROW_2021.pdf",
+      "report_name": "NASDAQ_TROW_2021"
+    }
+  ]
+}

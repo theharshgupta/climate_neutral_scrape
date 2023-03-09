@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Iridium Communications Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/iridium-communications-inc",
+    "ticker_name": "IRDM",
+    "exchange": "NASDAQ",
+    "industry": "Diversified Communication Services",
+    "sector": "Technology",
+    "about_company": "Iridium Communications Inc. provides mobile voice and data communications services through satellite to businesses, the U.S. and foreign governments, non-governmental organizations, and consumers worldwide. It offers postpaid mobile voice and data satellite communications services; prepaid mobile voice satellite communications services; broadband data services; and machine-to-machine services\u2026More",
+    "num_employees": "51-200 Employees",
+    "location": "Based in McLean, Virginia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_IRDM_2020.pdf",
+      "report_name": "NASDAQ_IRDM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_IRDM_2021.pdf",
+      "report_name": "NASDAQ_IRDM_2021"
+    }
+  ]
+}

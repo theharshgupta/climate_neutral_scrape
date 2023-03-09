@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Landec Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/landec-corp",
+    "ticker_name": "LNDC",
+    "exchange": "NASDAQ",
+    "industry": "Chemicals - Major Diversified",
+    "sector": "Basic Materials",
+    "about_company": "Landec Corporation designs, develops, manufactures, and sells polymer products for food and agricultural products, medical devices products, and licensed partner applications incorporating its patented polymer technologies.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Menlo Park, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LNDC_2020.pdf",
+      "report_name": "NASDAQ_LNDC_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LNDC_2019.pdf",
+      "report_name": "NASDAQ_LNDC_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_LNDC_2021.pdf",
+      "report_name": "NASDAQ_LNDC_2021"
+    }
+  ]
+}

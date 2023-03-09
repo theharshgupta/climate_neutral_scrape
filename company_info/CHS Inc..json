@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "CHS Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/chs-inc",
+    "ticker_name": "CHSCP",
+    "exchange": "NASDAQ",
+    "industry": "Farm Products",
+    "sector": "Consumer Goods",
+    "about_company": "CHS Inc. (www.chsinc.com) is a leading global agribusiness owned by farmers, ranchers and cooperatives across the United States. Diversified in energy, grains and foods, CHS is committed to helping its customers, farmer-owners and other stakeholders grow their businesses through its domestic and global operations. CHS, a Fortune 100 company, supplies energy, crop nutrients, grain marketing\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Inver Grove Heights, Minnesota"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CHSCP_2021.pdf",
+      "report_name": "NASDAQ_CHSCP_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CHSCP_2022.pdf",
+      "report_name": "NASDAQ_CHSCP_2022"
+    }
+  ]
+}

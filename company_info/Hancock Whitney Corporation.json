@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Hancock Whitney Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/hancocki-whitney-corporation",
+    "ticker_name": "HWC",
+    "exchange": "NASDAQ",
+    "industry": "Regional - Southeast Banks",
+    "sector": "Financial",
+    "about_company": "Hancock Whitney Corporation create opportunities for their clients and the communities they serve. They offer a wide array of banking and financial services at locations in Alabama, Florida, Louisiana, Mississippi and Texas. Their core values are lived out by the actions of their associates throughout their footprint. Commitment to service is not just something that they say on a poster\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Gulfport, Mississippi"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HWC_2019.pdf",
+      "report_name": "NASDAQ_HWC_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HWC_2020.pdf",
+      "report_name": "NASDAQ_HWC_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_HWC_2021.pdf",
+      "report_name": "NASDAQ_HWC_2021"
+    }
+  ]
+}

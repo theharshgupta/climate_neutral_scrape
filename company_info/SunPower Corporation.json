@@ -1,0 +1,47 @@
+{
+  "info": {
+    "company_name": "SunPower Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/sunpower-corporation",
+    "ticker_name": "SPWR",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Specialized",
+    "sector": "Technology",
+    "about_company": "SunPower Corporation (Nasdaq: SPWR) designs, manufactures and delivers high-performance solar electric systems worldwide for residential, commercial and utility-scale power plant customers. SunPower high-efficiency solar cells and solar panels generate up to 50 percent more power than conventional solar technologies and have a uniquely attractive, all-black appearance. With headquarters\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2019.pdf",
+      "report_name": "NASDAQ_SPWR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2017.pdf",
+      "report_name": "NASDAQ_SPWR_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2018.pdf",
+      "report_name": "NASDAQ_SPWR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2016.pdf",
+      "report_name": "NASDAQ_SPWR_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2020.pdf",
+      "report_name": "NASDAQ_SPWR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2015.pdf",
+      "report_name": "NASDAQ_SPWR_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SPWR_2014.pdf",
+      "report_name": "NASDAQ_SPWR_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SPWR_2021.pdf",
+      "report_name": "NASDAQ_SPWR_2021"
+    }
+  ]
+}

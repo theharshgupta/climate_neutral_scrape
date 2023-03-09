@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Zillow Group",
+    "company_url": "https://www.responsibilityreports.com/Company/zillow-group",
+    "ticker_name": "Z",
+    "exchange": "NASDAQ",
+    "industry": "Property Management",
+    "sector": "Financial",
+    "about_company": "Zillow Group (NASDAQ: Z and ZG) houses a portfolio of the largest real estate and home-related brands on the web and mobile. The company's brands focus on all stages of the home lifecycle: renting, buying, selling, financing and home improvement.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Seattle, Washington"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/z/NASDAQ_Z_2020.pdf",
+      "report_name": "NASDAQ_Z_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/z/NASDAQ_Z_2018.pdf",
+      "report_name": "NASDAQ_Z_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_Z_2021.pdf",
+      "report_name": "NASDAQ_Z_2021"
+    }
+  ]
+}

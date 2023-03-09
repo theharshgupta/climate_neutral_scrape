@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Forward Air Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/forward-air-corp",
+    "ticker_name": "FWRD",
+    "exchange": "NASDAQ",
+    "industry": "Air Delivery & Freight Services",
+    "sector": "Services",
+    "about_company": "Forward Air Corporation is a leading provider of time-definite surface transportation and related logistics to the North American deferred air freight market.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Greeneville, Tennessee"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FWRD_2021.pdf",
+      "report_name": "NASDAQ_FWRD_2021"
+    }
+  ]
+}

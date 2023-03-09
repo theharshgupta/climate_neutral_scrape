@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Akamai Technologies Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/akamai-technologies-inc",
+    "ticker_name": "AKAM",
+    "exchange": "NASDAQ",
+    "industry": "Internet Information Providers",
+    "sector": "Technology",
+    "about_company": "Akamai Technologies, Inc. provides services for accelerating and improving the delivery of content and applications over the Internet in the United States and internationally. The company offers Application Performance solutions that improve the performance of dynamic applications used by enterprises to connect with their employees, suppliers, and customers.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Cambridge, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AKAM_2019.pdf",
+      "report_name": "NASDAQ_AKAM_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AKAM_2020.pdf",
+      "report_name": "NASDAQ_AKAM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AKAM_2021.pdf",
+      "report_name": "NASDAQ_AKAM_2021"
+    }
+  ]
+}

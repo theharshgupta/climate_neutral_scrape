@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Intuit Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/intuit-inc",
+    "ticker_name": "INTU",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Intuit Inc. provides business and financial management solutions for small and medium-sized businesses, consumers, accounting professionals, and financial institutions primarily in the United States, Canada, India, Singapore, and the United Kingdom.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Mountain View, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_INTU_2021.pdf",
+      "report_name": "NASDAQ_INTU_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_INTU_2018.pdf",
+      "report_name": "NASDAQ_INTU_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_INTU_2019.pdf",
+      "report_name": "NASDAQ_INTU_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_INTU_2020.pdf",
+      "report_name": "NASDAQ_INTU_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_INTU_2022.pdf",
+      "report_name": "NASDAQ_INTU_2022"
+    }
+  ]
+}

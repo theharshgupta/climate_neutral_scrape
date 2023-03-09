@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Sykes Enterprises, Incorporated",
+    "company_url": "https://www.responsibilityreports.com/Company/sykes-enterprises-incorporated",
+    "ticker_name": "SYKE",
+    "exchange": "NASDAQ",
+    "industry": "Information Technology Services",
+    "sector": "Technology",
+    "about_company": "Sykes Enterprises, Incorporated provide outsourced customer contact management solutions and services in the business process outsourcing arena primarily in the United States, Canada, Latin America, Australia, the Asia Pacific Rim, Europe, the Middle East, and Africa.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Tampa, Florida"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SYKE_2019.pdf",
+      "report_name": "NASDAQ_SYKE_2019"
+    }
+  ]
+}

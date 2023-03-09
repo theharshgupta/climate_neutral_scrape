@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Progress Software",
+    "company_url": "https://www.responsibilityreports.com/Company/progress-software",
+    "ticker_name": "PRGS",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Progress Software Corporation, an enterprise software company, provides software solutions to organizations for operational responsiveness.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Bedford, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGS_2019.pdf",
+      "report_name": "NASDAQ_PRGS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGS_2020.pdf",
+      "report_name": "NASDAQ_PRGS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PRGS_2012.pdf",
+      "report_name": "NASDAQ_PRGS_2012"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PRGS_2021.pdf",
+      "report_name": "NASDAQ_PRGS_2021"
+    }
+  ]
+}

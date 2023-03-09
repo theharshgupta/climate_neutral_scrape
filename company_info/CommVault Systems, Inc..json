@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "CommVault Systems, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/commvault-systems-inc",
+    "ticker_name": "CVLT",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "CommVault Systems, Inc. provides data and information management software applications and related services primarily in North America, Europe, Australia, and Asia. The company develops, markets, and sells a suite of software applications and services under the Simpana brand.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Tinton Falls, New Jersey"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CVLT_2020.pdf",
+      "report_name": "NASDAQ_CVLT_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CVLT_2021.pdf",
+      "report_name": "NASDAQ_CVLT_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CVLT_2022.pdf",
+      "report_name": "NASDAQ_CVLT_2022"
+    }
+  ]
+}

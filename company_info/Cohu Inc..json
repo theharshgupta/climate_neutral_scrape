@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Cohu Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cohu-inc",
+    "ticker_name": "COHU",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor Equipment & Materials",
+    "sector": "Technology",
+    "about_company": "Cohu, Inc. provides semiconductor test equipment, microwave communication systems, and video cameras. Its Semiconductor Equipment segment develops, manufactures, and sells pick-and-place semiconductor test handlers, burn-in related equipment, and thermal sub-systems to semiconductor manufacturers and semiconductor test subcontractors.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Poway, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COHU_2019.pdf",
+      "report_name": "NASDAQ_COHU_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COHU_2020.PDF",
+      "report_name": "NASDAQ_COHU_2020.PDF"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_COHU_2021.pdf",
+      "report_name": "NASDAQ_COHU_2021"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "info": {
+    "company_name": "FLSmidth",
+    "company_url": "https://www.responsibilityreports.com/Company/flsmidth",
+    "ticker_name": "FLS",
+    "exchange": "NASDAQ",
+    "industry": "--None--",
+    "sector": "Industrial Goods",
+    "about_company": "FLSmidth delivers sustainable productivity to the global mining and cement industries. They deliver market-leading engineering, equipment and service solutions to their customers enabling them to improve performance, drive down costs and reduce environmental impact. With MissionZero, their 2030 ambition is to enable zero emission and zero waste (water, energy) in cement production and mining\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Copenhagen, Denmark"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2010.pdf",
+      "report_name": "NASDAQ_FLS_2010"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2017.pdf",
+      "report_name": "NASDAQ_FLS_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2014.pdf",
+      "report_name": "NASDAQ_FLS_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2016.pdf",
+      "report_name": "NASDAQ_FLS_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2013.pdf",
+      "report_name": "NASDAQ_FLS_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2015.pdf",
+      "report_name": "NASDAQ_FLS_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2020.pdf",
+      "report_name": "NASDAQ_FLS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2018.pdf",
+      "report_name": "NASDAQ_FLS_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2012.pdf",
+      "report_name": "NASDAQ_FLS_2012"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2019.pdf",
+      "report_name": "NASDAQ_FLS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FLS_2011.pdf",
+      "report_name": "NASDAQ_FLS_2011"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FLS_2021.pdf",
+      "report_name": "NASDAQ_FLS_2021"
+    }
+  ]
+}

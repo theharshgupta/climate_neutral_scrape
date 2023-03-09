@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Costco Wholesale Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/costco-wholesale-corporation",
+    "ticker_name": "COST",
+    "exchange": "NASDAQ",
+    "industry": "Discount, Variety Stores",
+    "sector": "Services",
+    "about_company": "Costco Wholesale Corporation operates membership warehouses that offer a selection of branded and private label products in a range of merchandise categories in no-frills, self-service warehouse facilities.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Seattle, Washington"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COST_2019.pdf",
+      "report_name": "NASDAQ_COST_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_COST_2018.pdf",
+      "report_name": "NASDAQ_COST_2018"
+    }
+  ]
+}

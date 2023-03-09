@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Kimball International Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/kimball-international",
+    "ticker_name": "KBAL",
+    "exchange": "NASDAQ",
+    "industry": "Printed Circuit Boards",
+    "sector": "Technology",
+    "about_company": "Kimball International, Inc. manufactures and sells furniture products in the United States and internationally. The company offers furniture products, including desks, credenzas, seating, tables, collaborative workstations, contemporary cubicle systems, filing and storage units, and accessories under the Kimball Office and National brand names for open floor plan areas, conference rooms\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Jasper, Indiana"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NASDAQ_KBAL_2020.pdf",
+      "report_name": "NASDAQ_KBAL_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_KBAL_2021.pdf",
+      "report_name": "NASDAQ_KBAL_2021"
+    }
+  ]
+}

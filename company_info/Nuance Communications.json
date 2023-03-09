@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Nuance Communications",
+    "company_url": "https://www.responsibilityreports.com/Company/nuance-communications",
+    "ticker_name": "NUAN",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Nuance Communications, Inc. (NASDAQ: NUAN) is a leading provider of voice and language solutions for businesses and consumers around the world. Its technologies, applications and services make the user experience more compelling by transforming the way people interact with devices and systems. Every day, millions of users and thousands of businesses experience Nuance\u2019s proven applications.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Burlington, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/n/NASDAQ_NUAN_2020.pdf",
+      "report_name": "NASDAQ_NUAN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_NUAN_2021.pdf",
+      "report_name": "NASDAQ_NUAN_2021"
+    }
+  ]
+}

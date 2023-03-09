@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "SP Plus Corp",
+    "company_url": "https://www.responsibilityreports.com/Company/sp-plus-corp",
+    "ticker_name": "SP",
+    "exchange": "NASDAQ",
+    "industry": "Management Services",
+    "sector": "Services",
+    "about_company": "SP Plus Corp, formerly Standard Parking Corporation, is a provider of parking management, ground transportation and other ancillary services to commercial, institutional and municipal clients in the United States and Canada. The Company\u2019s services include a set of on-site parking management and ground transportation services, which consist of training, scheduling and supervising all service\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SP_2019.pdf",
+      "report_name": "NASDAQ_SP_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SP_2020.pdf",
+      "report_name": "NASDAQ_SP_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SP_2017.pdf",
+      "report_name": "NASDAQ_SP_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SP_2018.pdf",
+      "report_name": "NASDAQ_SP_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SP_2021.pdf",
+      "report_name": "NASDAQ_SP_2021"
+    }
+  ]
+}

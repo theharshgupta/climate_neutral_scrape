@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Viavi Solutions Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/viavi-solutions-inc",
+    "ticker_name": "VIAV",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "VIAVI Solutions (NASDAQ: VIAV) is a global leader in both network and service enablement and optical security performance products and solutions. Their technologies contribute to the success of a wide range of customers \u2013 from the world\u2019s largest mobile operators and governmental entities to enterprise network and application providers to contractors laying the fiber and building the towers\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Scottsdale, Arizona"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/v/NASDAQ_VIAV_2020.pdf",
+      "report_name": "NASDAQ_VIAV_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/v/NASDAQ_VIAV_2021.pdf",
+      "report_name": "NASDAQ_VIAV_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_VIAV_2021.pdf",
+      "report_name": "NASDAQ_VIAV_2021"
+    }
+  ]
+}

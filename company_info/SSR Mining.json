@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "SSR Mining",
+    "company_url": "https://www.responsibilityreports.com/Company/ssr-mining",
+    "ticker_name": "SSRM",
+    "exchange": "NASDAQ",
+    "industry": "Gold",
+    "sector": "Basic Materials",
+    "about_company": "SSR Mining Inc. is a Canadian-based precious metals producer with three operations, including the Marigold gold mine in Nevada, U.S., the Seabee Gold Operation in Saskatchewan, Canada and Puna Operations in Jujuy, Argentina. SSR Mining also has two feasibility stage projects and a portfolio of exploration properties in North and South America. SSR Mining is committed to delivering safe\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Denver, Colorado"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SSRM_2020.pdf",
+      "report_name": "NASDAQ_SSRM_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SSRM_2018.pdf",
+      "report_name": "NASDAQ_SSRM_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SSRM_2019.pdf",
+      "report_name": "NASDAQ_SSRM_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SSRM_2021.pdf",
+      "report_name": "NASDAQ_SSRM_2021"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "The RMR Group",
+    "company_url": "https://www.responsibilityreports.com/Company/rmr-group",
+    "ticker_name": "RMR",
+    "exchange": "NASDAQ",
+    "industry": "Real Estate Development",
+    "sector": "Real Estate",
+    "about_company": "The RMR Group LLC, a subsidiary of The RMR Group Inc. (Nasdaq: RMR), is an alternative asset management company primarily focused on real estate related businesses. Founded in 1986, The RMR Group has grown to one of the leading real estate investment managers in the U.S. with, as of December 31, 2016, approximately $27.2 billion of total assets under management, including more than 1,400\u2026More",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Newton, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/r/NASDAQ_RMR_2019.pdf",
+      "report_name": "NASDAQ_RMR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/r/NASDAQ_RMR_2020.pdf",
+      "report_name": "NASDAQ_RMR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_RMR_2021.pdf",
+      "report_name": "NASDAQ_RMR_2021"
+    }
+  ]
+}

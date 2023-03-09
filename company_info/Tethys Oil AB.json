@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Tethys Oil AB",
+    "company_url": "https://www.responsibilityreports.com/Company/tethys-oil-ab",
+    "ticker_name": "TETY",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Equipment & Services",
+    "sector": "Energy",
+    "about_company": "Tethys Oil is a Swedish oil company with focus on onshore areas with known oil discoveries. The company\u2019s core area is the Sultanate of Oman, where it holds interests in Blocks 3&4, Block 49, Block 56 and Block 58. Tethys Oil has net working interest 2P reserves of 26.9 mmbo and net working interest 2C Contingent Resources of 13.9 mmbo and had an average oil production of 11,336 barrels\u2026More",
+    "num_employees": "11-50 Employees",
+    "location": "Based in Stockholm, Sweden"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TETY_2018.pdf",
+      "report_name": "NASDAQ_TETY_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TETY_2020.pdf",
+      "report_name": "NASDAQ_TETY_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_TETY_2019.pdf",
+      "report_name": "NASDAQ_TETY_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_TETY_2021.pdf",
+      "report_name": "NASDAQ_TETY_2021"
+    }
+  ]
+}

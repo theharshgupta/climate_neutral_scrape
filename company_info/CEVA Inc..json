@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "CEVA Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/ceva-inc",
+    "ticker_name": "CEVA",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Specialized",
+    "sector": "Technology",
+    "about_company": "CEVA, Inc., engages in licensing silicon intellectual property (SIP) for the handsets, mobile broadband, portable, and consumer electronics markets primarily in the United States, Europe, the Middle East, and the Asia Pacific.",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Mountain View, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CEVA_2018.pdf",
+      "report_name": "NASDAQ_CEVA_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CEVA_2021.pdf",
+      "report_name": "NASDAQ_CEVA_2021"
+    }
+  ]
+}

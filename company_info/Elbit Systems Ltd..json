@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Elbit Systems Ltd.",
+    "company_url": "https://www.responsibilityreports.com/Company/elbit-systems-ltd",
+    "ticker_name": "ESLT",
+    "exchange": "NASDAQ",
+    "industry": "Aerospace/Defense - Major Diversified",
+    "sector": "Industrial Goods",
+    "about_company": "Elbit Systems Ltd. is an international high technology company engaged in a wide range of defense, homeland security and commercial programs throughout the world. The Company, which includes Elbit Systems and its subsidiaries, operates in the areas of aerospace, land and naval systems, command, control, communications, computers, intelligence surveillance and reconnaissance (\"C4ISR\"), unmanned\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Haifa, Israel"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_ESLT_2018.pdf",
+      "report_name": "NASDAQ_ESLT_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ESLT_2020.pdf",
+      "report_name": "NASDAQ_ESLT_2020"
+    }
+  ]
+}

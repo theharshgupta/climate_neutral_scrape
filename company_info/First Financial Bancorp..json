@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "First Financial Bancorp.",
+    "company_url": "https://www.responsibilityreports.com/Company/first-financial-bancorp",
+    "ticker_name": "FFBC",
+    "exchange": "NASDAQ",
+    "industry": "Regional - Midwest Banks",
+    "sector": "Financial",
+    "about_company": "First Financial Bancorp. operates as the holding company for First Financial Bank, National Association that provides commercial banking, and other banking and banking-related services.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Cincinnati, Ohio"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FFBC_2020.pdf",
+      "report_name": "NASDAQ_FFBC_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FFBC_2018.pdf",
+      "report_name": "NASDAQ_FFBC_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FFBC_2019.pdf",
+      "report_name": "NASDAQ_FFBC_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FFBC_2021.pdf",
+      "report_name": "NASDAQ_FFBC_2021"
+    }
+  ]
+}

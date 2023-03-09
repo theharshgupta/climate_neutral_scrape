@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "CalAmp Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/calamp-corp",
+    "ticker_name": "CAMP",
+    "exchange": "NASDAQ",
+    "industry": "Communication Equipment",
+    "sector": "Technology",
+    "about_company": "CalAmp Corp. develops and markets wireless communications solutions that deliver data, voice, and video for critical networked communications and other applications primarily in the United States.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Irvine, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CAMP_2020.pdf",
+      "report_name": "NASDAQ_CAMP_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CAMP_2021.pdf",
+      "report_name": "NASDAQ_CAMP_2021"
+    }
+  ]
+}

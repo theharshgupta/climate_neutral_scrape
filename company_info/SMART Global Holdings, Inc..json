@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "SMART Global Holdings, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/smart-global-holdings-inc",
+    "ticker_name": "SGH",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor Equipment & Materials",
+    "sector": "Technology",
+    "about_company": "The SMART lines of business are leading designers and manufacturers of electronic products focused on memory and computing technology areas. The Company specializes in application specific product development and support for customers in enterprise, government and OEM sales channels. Customers rely on SMART as a strategic supplier with top tier customer service, product quality, and technical\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Newark, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SGH_2020.pdf",
+      "report_name": "NASDAQ_SGH_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SGH_2021.pdf",
+      "report_name": "NASDAQ_SGH_2021"
+    }
+  ]
+}

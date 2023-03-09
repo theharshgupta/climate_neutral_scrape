@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Cadence Design Systems, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cadence-design-systems-inc",
+    "ticker_name": "CDNS",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play. Cadence\u00ae software, hardware and semiconductor IP are used by customers to deliver products to market faster.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CDNS_2019.pdf",
+      "report_name": "NASDAQ_CDNS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CDNS_2018.pdf",
+      "report_name": "NASDAQ_CDNS_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CDNS_2020.pdf",
+      "report_name": "NASDAQ_CDNS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CDNS_2021.pdf",
+      "report_name": "NASDAQ_CDNS_2021"
+    }
+  ]
+}

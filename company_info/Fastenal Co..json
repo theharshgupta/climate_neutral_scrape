@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Fastenal Co.",
+    "company_url": "https://www.responsibilityreports.com/Company/fastenal-co",
+    "ticker_name": "FAST",
+    "exchange": "NASDAQ",
+    "industry": "General Building Materials",
+    "sector": "Industrial Goods",
+    "about_company": "Fastenal Company sells industrial and construction supplies in a wholesale and retail fashion. The Company's product line includes fasteners, tools, hydraulics and pneumatics, janitorial supplies, welding supplies and metals. The product line, which is referred to as the fastener product line, consists of two categories: threaded fasteners, such as bolts, nuts, screws, studs, and related\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Winona, Minnesota"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FAST_2022.pdf",
+      "report_name": "NASDAQ_FAST_2022"
+    }
+  ]
+}

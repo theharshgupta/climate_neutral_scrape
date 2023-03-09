@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Cedar Realty Trust, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cedar-realty-trust-inc",
+    "ticker_name": "CDR",
+    "exchange": "NASDAQ",
+    "industry": "Information Technology Services",
+    "sector": "Technology",
+    "about_company": "Cedar Shopping Centers, Inc. is a self-managed real estate investment trust focused on supermarket-anchored shopping centers and drug store-anchored convenience centers located predominantly in the Northeast.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Port Washington, New York"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CDR_2020.pdf",
+      "report_name": "NASDAQ_CDR_2020"
+    }
+  ]
+}

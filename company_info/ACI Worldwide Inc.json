@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "ACI Worldwide Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/aci-worldwide-inc",
+    "ticker_name": "ACIW",
+    "exchange": "NASDAQ",
+    "industry": "Technical & System Software",
+    "sector": "Technology",
+    "about_company": "ACI Worldwide powers electronic payments for financial institutions, retailers and processors around the world with its broad and integrated suite of electronic payment software.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Coral Gables, Florida"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ACIW_2019.pdf",
+      "report_name": "NASDAQ_ACIW_2019"
+    }
+  ]
+}

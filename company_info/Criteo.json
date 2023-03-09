@@ -1,0 +1,39 @@
+{
+  "info": {
+    "company_name": "Criteo",
+    "company_url": "https://www.responsibilityreports.com/Company/criteo",
+    "ticker_name": "CRTO",
+    "exchange": "NASDAQ",
+    "industry": "Advertising Agencies",
+    "sector": "Services",
+    "about_company": "Criteo is a global technology company that enables brands and retailers to connect more shoppers to the things they need and love. They\u2019ve built the Criteo Commerce Marketing Ecosystem: an open, secure, transparent, and fair environment where retailers, brands, and publishers collaborate to put data into action at every point of the purchase journey. Its value to their clients lies in measurable\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Paris, France"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CRTO_2020_c7ab50cd68bd439b9beb9a97482e8169.pdf",
+      "report_name": "NASDAQ_CRTO_2020_c7ab50cd68bd439b9beb9a97482e8169"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CRTO_2017.pdf",
+      "report_name": "NASDAQ_CRTO_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CRTO_2016.pdf",
+      "report_name": "NASDAQ_CRTO_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CRTO_2019.pdf",
+      "report_name": "NASDAQ_CRTO_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CRTO_2018.pdf",
+      "report_name": "NASDAQ_CRTO_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CRTO_2021.pdf",
+      "report_name": "NASDAQ_CRTO_2021"
+    }
+  ]
+}

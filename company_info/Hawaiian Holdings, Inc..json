@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Hawaiian Holdings, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/hawaiian-holdings-inc",
+    "ticker_name": "HA",
+    "exchange": "NASDAQ",
+    "industry": "Regional Airlines",
+    "sector": "Industrial Goods",
+    "about_company": "Hawaiian Holdings, Inc. Hawaiian Airlines, Inc., engages in the scheduled air transportation of passengers and cargo. It offers daily services on North America routes between the state of Hawaii and Los Angeles, Oakland, Sacramento, San Diego, San Francisco, and San Jose, California; Las Vegas, Nevada; Phoenix, Arizona; Portland, Oregon; and Seattle, Washington, as well as daily services\u2026More",
+    "num_employees": "5001-10,000 Employees",
+    "location": "NA"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HA_2021.pdf",
+      "report_name": "NASDAQ_HA_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HA_2020.pdf",
+      "report_name": "NASDAQ_HA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/h/NASDAQ_HA_2018.pdf",
+      "report_name": "NASDAQ_HA_2018"
+    }
+  ]
+}

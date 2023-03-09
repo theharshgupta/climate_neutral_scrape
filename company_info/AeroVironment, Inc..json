@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "AeroVironment, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/aerovironment-inc",
+    "ticker_name": "AVAV",
+    "exchange": "NASDAQ",
+    "industry": "Aerospace/Defense Products & Services",
+    "sector": "Industrial Goods",
+    "about_company": "AeroVironment, Inc. designs, develops, produces, and supports unmanned aircraft systems, and efficient energy systems for various industries and governmental agencies.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Arlington, Virginia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_AVAV_2022.pdf",
+      "report_name": "NASDAQ_AVAV_2022"
+    }
+  ]
+}

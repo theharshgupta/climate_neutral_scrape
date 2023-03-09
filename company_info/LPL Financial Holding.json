@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "LPL Financial Holding",
+    "company_url": "https://www.responsibilityreports.com/Company/lpl-financial-holding",
+    "ticker_name": "LPLA",
+    "exchange": "NASDAQ",
+    "industry": "Investment Brokerage - National",
+    "sector": "Financial",
+    "about_company": "LPL Financial, a wholly owned subsidiary of LPL Financial Holdings Inc. (NASDAQ:LPLA), is a leader in the retail financial advice market. The Company provides proprietary technology, comprehensive clearing and compliance services, practice management programs and training, and independent research to more than 14,000 independent financial advisors and over 700 banks and credit unions, enabling\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Diego, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LPLA_2020.pdf",
+      "report_name": "NASDAQ_LPLA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LPLA_2019.pdf",
+      "report_name": "NASDAQ_LPLA_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_LPLA_2021.pdf",
+      "report_name": "NASDAQ_LPLA_2021"
+    }
+  ]
+}

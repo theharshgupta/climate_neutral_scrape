@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Gulfport Energy Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/gulfport-energy-corporation",
+    "ticker_name": "GPOR",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Equipment & Services",
+    "sector": "Energy",
+    "about_company": "Gulfport Energy Corporation engages in the exploration, development, and production of oil and natural gas properties. Its principal properties consist of the West Cote Blanche Bay and Hackberry fields in the Louisiana Gulf Coast; and the Permian Basin in West Texas.",
+    "num_employees": "201-500 Employees",
+    "location": "Based in Oklahoma City, Oklahoma"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GPOR_2019.pdf",
+      "report_name": "NASDAQ_GPOR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GPOR_2020.pdf",
+      "report_name": "NASDAQ_GPOR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GPOR_2022.pdf",
+      "report_name": "NASDAQ_GPOR_2022"
+    }
+  ]
+}

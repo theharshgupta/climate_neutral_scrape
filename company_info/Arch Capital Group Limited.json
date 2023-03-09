@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Arch Capital Group Limited",
+    "company_url": "https://www.responsibilityreports.com/Company/arch-capital-group-limited",
+    "ticker_name": "ACGL",
+    "exchange": "NASDAQ",
+    "industry": "Property & Casualty Insurance",
+    "sector": "Financial",
+    "about_company": "Arch Capital Group Ltd. (Arch Capital or ACGL), a Bermuda public limited liability company, writes insurance, reinsurance and mortgage insurance on a worldwide basis. Their unique underwriting platform, experienced management team and strong capital base have enabled us to establish a prominent presence in the global insurance, reinsurance, and mortgage insurance markets.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Hamilton, Bermuda"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ACGL_2019.pdf",
+      "report_name": "NASDAQ_ACGL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ACGL_2020.pdf",
+      "report_name": "NASDAQ_ACGL_2020"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "OpenText Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/opentext-corporation",
+    "ticker_name": "OTEX",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Open Text Corporation develops, markets, sells, licenses, and supports enterprise content management (ECM) solutions primarily in North America and Europe.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Waterloo, Ontario"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/o/NASDAQ_OTEX_2020.pdf",
+      "report_name": "NASDAQ_OTEX_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/o/NASDAQ_OTEX_2021.pdf",
+      "report_name": "NASDAQ_OTEX_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_OTEX_2022.pdf",
+      "report_name": "NASDAQ_OTEX_2022"
+    }
+  ]
+}

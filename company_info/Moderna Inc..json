@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Moderna Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/moderna-inc",
+    "ticker_name": "MRNA",
+    "exchange": "NASDAQ",
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "about_company": "Moderna scientists designed the company\u2019s prophylactic vaccines modality to prevent infectious diseases. More than 1,900 participants, prior to enrolling the Phase 3 study of mRNA-1273, have been enrolled in Moderna\u2019s infectious disease vaccine clinical studies under health authorities in the U.S., Europe and Australia. Clinical data demonstrate that Moderna\u2019s proprietary vaccine technology\u2026More",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Cambridge, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_MRNA_2021.pdf",
+      "report_name": "NASDAQ_MRNA_2021"
+    }
+  ]
+}

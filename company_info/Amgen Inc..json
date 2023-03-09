@@ -1,0 +1,55 @@
+{
+  "info": {
+    "company_name": "Amgen Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/amgen-inc",
+    "ticker_name": "AMGN",
+    "exchange": "NASDAQ",
+    "industry": "Drug Manufacturers - Major",
+    "sector": "Healthcare",
+    "about_company": "Amgen Inc., a biotechnology medicines company, discovers, develops, manufactures, and markets human therapeutics based on advances in cellular and molecular biology for grievous illnesses primarily in the United States, Europe, and Canada. The company markets recombinant protein therapeutics in supportive cancer care, nephrology, and inflammation.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Thousand Oaks, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2020.pdf",
+      "report_name": "NASDAQ_AMGN_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2016.pdf",
+      "report_name": "NASDAQ_AMGN_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2013.pdf",
+      "report_name": "NASDAQ_AMGN_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2012.pdf",
+      "report_name": "NASDAQ_AMGN_2012"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2018.pdf",
+      "report_name": "NASDAQ_AMGN_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2014.pdf",
+      "report_name": "NASDAQ_AMGN_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2011.pdf",
+      "report_name": "NASDAQ_AMGN_2011"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2015.pdf",
+      "report_name": "NASDAQ_AMGN_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2010.pdf",
+      "report_name": "NASDAQ_AMGN_2010"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_AMGN_2017.pdf",
+      "report_name": "NASDAQ_AMGN_2017"
+    }
+  ]
+}

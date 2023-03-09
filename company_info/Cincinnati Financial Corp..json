@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Cincinnati Financial Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/cincinnati-financial-corp",
+    "ticker_name": "CINF",
+    "exchange": "NASDAQ",
+    "industry": "Property & Casualty Insurance",
+    "sector": "Financial",
+    "about_company": "Cincinnati Financial Corporation offers business, home and auto insurance through The Cincinnati Insurance Company and its two standard market property casualty companies. The same local independent insurance agencies that market those policies may offer products of other subsidiaries, including life and disability income insurance, annuities and surplus lines property and casualty insurance.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Fairfield, Ohio"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CINF_2020.pdf",
+      "report_name": "NASDAQ_CINF_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CINF_2019.pdf",
+      "report_name": "NASDAQ_CINF_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CINF_2018.pdf",
+      "report_name": "NASDAQ_CINF_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CINF_2021.pdf",
+      "report_name": "NASDAQ_CINF_2021"
+    }
+  ]
+}

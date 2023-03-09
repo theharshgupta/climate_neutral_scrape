@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Cboe Global Markets, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cboe-global-markets",
+    "ticker_name": "CBOE",
+    "exchange": "NASDAQ",
+    "industry": "--None--",
+    "sector": "Financial",
+    "about_company": "CBOE Holdings, Inc. (NASDAQ: CBOE) is the holding company for Chicago Board Options Exchange (CBOE), CBOE Futures Exchange (CFE), and other subsidiaries. CBOE, the largest U.S. options exchange and creator of listed options, continues to set the bar for options and volatility trading through product innovation, trading technology and investor education.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CBOE_2019.pdf",
+      "report_name": "NASDAQ_CBOE_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CBOE_2020.pdf",
+      "report_name": "NASDAQ_CBOE_2020"
+    }
+  ]
+}

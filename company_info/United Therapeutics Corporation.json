@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "United Therapeutics Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/united-therapeutics-corporation",
+    "ticker_name": "UTHR",
+    "exchange": "NASDAQ",
+    "industry": "Drug Manufacturers - Other",
+    "sector": "Healthcare",
+    "about_company": "United Therapeutics Corporation, a biotechnology company, engages in the development and commercialization of therapeutic products for patients with chronic and life-threatening diseases in the United States and Internationally.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Silver Spring, Maryland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_UTHR_2020.pdf",
+      "report_name": "NASDAQ_UTHR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_UTHR_2021.pdf",
+      "report_name": "NASDAQ_UTHR_2021"
+    }
+  ]
+}

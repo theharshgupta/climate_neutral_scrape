@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "US Ecology, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/us-ecology-inc",
+    "ticker_name": "ECOL",
+    "exchange": "NASDAQ",
+    "industry": "Waste Management",
+    "sector": "Industrial Goods",
+    "about_company": "US Ecology, Inc. provides waste treatment, disposal, recycling, and transportation services to commercial and government entities in the United States.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Boise, Idaho"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_ECOL_2019.pdf",
+      "report_name": "NASDAQ_ECOL_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ECOL_2020.pdf",
+      "report_name": "NASDAQ_ECOL_2020"
+    }
+  ]
+}

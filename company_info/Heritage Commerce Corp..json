@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Heritage Commerce Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/heritage-commerce-corp",
+    "ticker_name": "HTBK",
+    "exchange": "NASDAQ",
+    "industry": "Regional - Pacific Banks",
+    "sector": "Financial",
+    "about_company": "Heritage Commerce Corp operates as a bank holding company for Heritage Bank of Commerce that provides various commercial and personal banking services to residents and the business/professional community in California.",
+    "num_employees": "201-500 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_HTBK_2021.pdf",
+      "report_name": "NASDAQ_HTBK_2021"
+    }
+  ]
+}

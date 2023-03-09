@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Seneca Foods Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/seneca-foods-corp",
+    "ticker_name": "SENEA",
+    "exchange": "NASDAQ",
+    "industry": "Processed & Packaged Goods",
+    "sector": "Consumer Goods",
+    "about_company": "During this decade, Seneca is committed to remaining an independent, publicly traded company and to meet the quality, service and cost expectations of our customers across America and around the world.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Marion, New York"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SENEA_2018.pdf",
+      "report_name": "NASDAQ_SENEA_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SENEA_2017.pdf",
+      "report_name": "NASDAQ_SENEA_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SENEA_2019.pdf",
+      "report_name": "NASDAQ_SENEA_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SENEA_2020.pdf",
+      "report_name": "NASDAQ_SENEA_2020"
+    }
+  ]
+}

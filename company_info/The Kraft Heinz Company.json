@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "The Kraft Heinz Company",
+    "company_url": "https://www.responsibilityreports.com/Company/the-kraft-heinz-company",
+    "ticker_name": "KHC",
+    "exchange": "NASDAQ",
+    "industry": "Food - Major Diversified",
+    "sector": "Consumer Goods",
+    "about_company": "The Kraft Heinz Company is the third-largest food and beverage company in North America and the fifth-largest food and beverage company in the world, with eight $1 billion+ brands. A globally trusted producer of delicious foods, The Kraft Heinz Company provides high quality, great taste and nutrition for all eating occasions whether at home, in restaurants or on the go. The Company\u2019s iconic\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_KHC_2017.pdf",
+      "report_name": "NASDAQ_KHC_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_KHC_2020.pdf",
+      "report_name": "NASDAQ_KHC_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_KHC_2021.pdf",
+      "report_name": "NASDAQ_KHC_2021"
+    }
+  ]
+}

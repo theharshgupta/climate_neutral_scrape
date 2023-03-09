@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Insight Enterprises, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/insight-enterprises-inc",
+    "ticker_name": "NSIT",
+    "exchange": "NASDAQ",
+    "industry": "Information Technology Services",
+    "sector": "Technology",
+    "about_company": "Insight Enterprises, Inc. (\"Insight\" or the \"Company\") is a Fortune 500-ranked global provider of hardware, software, Cloud and service solutions to business, government, healthcare and educational clients. They provide clients the guidance and expertise needed to select, implement and manage complex technology solutions to drive business outcomes.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Tempe, Arizona"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_NSIT_2020.pdf",
+      "report_name": "NASDAQ_NSIT_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/i/NASDAQ_NSIT_2021.pdf",
+      "report_name": "NASDAQ_NSIT_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_NSIT_2022.pdf",
+      "report_name": "NASDAQ_NSIT_2022"
+    }
+  ]
+}

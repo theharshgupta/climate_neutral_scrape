@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Littelfuse Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/littelfuse-inc",
+    "ticker_name": "LFUS",
+    "exchange": "NASDAQ",
+    "industry": "Electronic Equipment",
+    "sector": "Technology",
+    "about_company": "Littelfuse, Inc. designs, manufactures, and sells circuit protection devices for use in the automotive, electronic, and electrical markets in the Americas, Europe, and the Asia-Pacific.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_LFUS_2021.pdf",
+      "report_name": "NASDAQ_LFUS_2021"
+    }
+  ]
+}

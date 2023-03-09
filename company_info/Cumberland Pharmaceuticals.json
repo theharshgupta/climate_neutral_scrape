@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Cumberland Pharmaceuticals",
+    "company_url": "https://www.responsibilityreports.com/Company/cumberland-pharmaceuticals",
+    "ticker_name": "CPIX",
+    "exchange": "NASDAQ",
+    "industry": "Drug Manufacturers - Other",
+    "sector": "Healthcare",
+    "about_company": "Cumberland Pharmaceuticals is a specialty pharmaceutical company focused on the acquisition, development and commercialization of branded prescription products. The Company's primary target markets include hospital acute care and gastroenterology.",
+    "num_employees": "51-200 Employees",
+    "location": "Based in Nashville, Tennessee"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CPIX_2020.pdf",
+      "report_name": "NASDAQ_CPIX_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CPIX_2019.pdf",
+      "report_name": "NASDAQ_CPIX_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CPIX_2021.pdf",
+      "report_name": "NASDAQ_CPIX_2021"
+    }
+  ]
+}

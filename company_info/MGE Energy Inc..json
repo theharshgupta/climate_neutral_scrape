@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "MGE Energy Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/mge-energy-inc",
+    "ticker_name": "MGEE",
+    "exchange": "NASDAQ",
+    "industry": "Diversified Utilities",
+    "sector": "Utilities",
+    "about_company": "MGE Energy, Inc. operates as a public utility holding company. It engages in generating, purchasing, transmitting, and distributing electricity.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Madison, Wisconsin"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MGEE_2018.pdf",
+      "report_name": "NASDAQ_MGEE_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MGEE_2020.pdf",
+      "report_name": "NASDAQ_MGEE_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/m/NASDAQ_MGEE_2019.pdf",
+      "report_name": "NASDAQ_MGEE_2019"
+    }
+  ]
+}

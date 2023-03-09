@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Lyft Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/lyft-inc",
+    "ticker_name": "LYFT",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Lyft was founded in 2012 and is one of the largest transportation networks in the United States and Canada. As the world shifts away from car ownership to transportation-as-a-service, Lyft is at the forefront of this massive societal change. Their transportation network brings together rideshare, bikes, scooters, car rentals and transit all in one app. They are singularly driven by their\u2026More",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in San Francisco, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LYFT_2021.pdf",
+      "report_name": "NASDAQ_LYFT_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LYFT_2020.pdf",
+      "report_name": "NASDAQ_LYFT_2020"
+    }
+  ]
+}

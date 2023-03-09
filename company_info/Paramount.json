@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Paramount",
+    "company_url": "https://www.responsibilityreports.com/Company/paramount",
+    "ticker_name": "PARA",
+    "exchange": "NASDAQ",
+    "industry": "Entertainment - Diversified",
+    "sector": "Technology",
+    "about_company": "Paramount is a leading media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic studios, networks and streaming services, Paramount's portfolio of consumer brands includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto TV and Simon & Schuster, among others. Paramount delivers\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in New York City, New York"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PARA_2019.pdf",
+      "report_name": "NASDAQ_PARA_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PARA_2020.pdf",
+      "report_name": "NASDAQ_PARA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PARA_2021.pdf",
+      "report_name": "NASDAQ_PARA_2021"
+    }
+  ]
+}

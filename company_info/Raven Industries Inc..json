@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Raven Industries Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/raven-industries-inc",
+    "ticker_name": "RAVN",
+    "exchange": "NASDAQ",
+    "industry": "Printed Circuit Boards",
+    "sector": "Technology",
+    "about_company": "Raven Industries, Inc. manufactures various products for industrial, agricultural, construction, and military/aerospace markets, primarily in North America.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Sioux Falls, South Dakota"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/r/NASDAQ_RAVN_2017.pdf",
+      "report_name": "NASDAQ_RAVN_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/r/NASDAQ_RAVN_2019.pdf",
+      "report_name": "NASDAQ_RAVN_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/r/NASDAQ_RAVN_2018.pdf",
+      "report_name": "NASDAQ_RAVN_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_RAVN_2020.pdf",
+      "report_name": "NASDAQ_RAVN_2020"
+    }
+  ]
+}

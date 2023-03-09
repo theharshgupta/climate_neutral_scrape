@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "First Hawaiian, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/first-hawaiian-inc",
+    "ticker_name": "FHB",
+    "exchange": "NASDAQ",
+    "industry": "Regional - Pacific Banks",
+    "sector": "Financial",
+    "about_company": "First Hawaiian Bank, founded in 1858 under the name Bishop & Company, is Hawaii\u2019s oldest and largest financial institution with branch locations throughout Hawaii, Guam and Saipan. The company offers a comprehensive suite of banking services to consumer and commercial customers including deposit products, loans, wealth management, insurance, trust, retirement planning, credit card and merchant\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Honolulu, Hawaii"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FHB_2018.pdf",
+      "report_name": "NASDAQ_FHB_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FHB_2020.pdf",
+      "report_name": "NASDAQ_FHB_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/f/NASDAQ_FHB_2019.pdf",
+      "report_name": "NASDAQ_FHB_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_FHB_2021.pdf",
+      "report_name": "NASDAQ_FHB_2021"
+    }
+  ]
+}

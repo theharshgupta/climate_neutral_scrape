@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "LKQ Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/lkq-corp",
+    "ticker_name": "LKQ",
+    "exchange": "NASDAQ",
+    "industry": "Auto Parts Wholesale",
+    "sector": "Services",
+    "about_company": "LKQ Corporation, together with its subsidiaries, provides replacement parts, components, and parts needed to repair vehicles, primarily cars and trucks in the United States and Canada.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Chicago, Illinois"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LKQ_2020.pdf",
+      "report_name": "NASDAQ_LKQ_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_LKQ_2021.pdf",
+      "report_name": "NASDAQ_LKQ_2021"
+    }
+  ]
+}

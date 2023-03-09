@@ -1,0 +1,59 @@
+{
+  "info": {
+    "company_name": "The Carlyle Group Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/the-carlyle-group-inc",
+    "ticker_name": "CG",
+    "exchange": "NASDAQ",
+    "industry": "Asset Management",
+    "sector": "Financial",
+    "about_company": "The Carlyle Group (NASDAQ: CG) is a global investment firm with deep industry expertise that deploys private capital across four business segments: Corporate Private Equity, Real Assets, Global Credit and Investment Solutions. With $217 billion of assets under management as of March 31, 2020, Carlyle\u2019s purpose is to invest wisely and create value on behalf of its investors, portfolio companies\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Washington, D.C., United States"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2020.pdf",
+      "report_name": "NASDAQ_CG_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2011.pdf",
+      "report_name": "NASDAQ_CG_2011"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2015.pdf",
+      "report_name": "NASDAQ_CG_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2018.pdf",
+      "report_name": "NASDAQ_CG_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2019.pdf",
+      "report_name": "NASDAQ_CG_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2013.pdf",
+      "report_name": "NASDAQ_CG_2013"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2021.pdf",
+      "report_name": "NASDAQ_CG_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2017.pdf",
+      "report_name": "NASDAQ_CG_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2014.pdf",
+      "report_name": "NASDAQ_CG_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/t/NASDAQ_CG_2016.pdf",
+      "report_name": "NASDAQ_CG_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CG_2022.pdf",
+      "report_name": "NASDAQ_CG_2022"
+    }
+  ]
+}

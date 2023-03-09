@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Keurig Dr Pepper",
+    "company_url": "https://www.responsibilityreports.com/Company/keurig-dr-pepper",
+    "ticker_name": "KDP",
+    "exchange": "NASDAQ",
+    "industry": "Beverages - Soft Drinks",
+    "sector": "Consumer Goods",
+    "about_company": "Keurig Dr Pepper (KDP) is a leading beverage company in North America, with annual revenue in excess of $11 billion and nearly 26,000 employees. KDP holds leadership positions in soft drinks, specialty coffee and tea, water, juice and juice drinks and mixers, and markets the #1 single serve coffee brewing system in the U.S. and Canada. The Company\u2019s portfolio of more than 125 owned, licensed\u2026More",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Plano, Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/k/NYSE_DPS_2018.pdf",
+      "report_name": "NYSE_DPS_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NYSE_DPS_2019.pdf",
+      "report_name": "NYSE_DPS_2019"
+    }
+  ]
+}

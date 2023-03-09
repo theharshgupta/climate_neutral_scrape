@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Cerence Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cerence-inc",
+    "ticker_name": "CRNC",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "Cerence (NASDAQ: CRNC) is the global industry leader in creating unique, moving experiences for the automotive world. As an innovation partner to the world\u2019s leading automakers, it is helping transform how a car feels, responds and learns. Its track record is built on more than 20 years of knowledge and more than 325 million cars on the road today. Whether it\u2019s connected cars, autonomous\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Burlington, Massachusetts"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CRNC_2021.pdf",
+      "report_name": "NASDAQ_CRNC_2021"
+    }
+  ]
+}

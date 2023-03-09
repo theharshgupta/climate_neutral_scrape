@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "USANA Health Sciences Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/usana-health-sciences-inc",
+    "ticker_name": "USNA",
+    "exchange": "NASDAQ",
+    "industry": "Food - Major Diversified",
+    "sector": "Consumer Goods",
+    "about_company": "USANA Health Sciences, Inc. develops, manufactures, distributes, and sells nutritional and personal care products worldwide.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Salt Lake City, Utah"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NASDAQ_USNA_2020.pdf",
+      "report_name": "NASDAQ_USNA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_USNA_2021.pdf",
+      "report_name": "NASDAQ_USNA_2021"
+    }
+  ]
+}

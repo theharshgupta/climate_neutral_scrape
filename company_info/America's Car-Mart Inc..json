@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "America's Car-Mart Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/americas-car-mart-inc",
+    "ticker_name": "CRMT",
+    "exchange": "NASDAQ",
+    "industry": "Auto Dealerships",
+    "sector": "Services",
+    "about_company": "America's Car-Mart, Inc. operates as an automotive retailer in the United States. The company focuses on the buy here/pay here segment of the used car market. It primarily sells older model used vehicles and provides financing for its customers. The company purchases vehicles through wholesalers, new car dealers, individuals, and from auctions.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Rogers, Arkansas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_CRMT_2020.pdf",
+      "report_name": "NASDAQ_CRMT_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CRMT_2021.pdf",
+      "report_name": "NASDAQ_CRMT_2021"
+    }
+  ]
+}

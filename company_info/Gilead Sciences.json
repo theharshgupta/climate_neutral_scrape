@@ -1,0 +1,39 @@
+{
+  "info": {
+    "company_name": "Gilead Sciences",
+    "company_url": "https://www.responsibilityreports.com/Company/gilead-sciences",
+    "ticker_name": "GILD",
+    "exchange": "NASDAQ",
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "about_company": "Gilead Sciences Inc is an independent biopharmaceutical company that discovers, develops, manufactures and commercializes proprietary therapeutics for challenging infectious diseases (viral, fungal and bacterial infections) and cancer.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Foster City, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GILD_2018.pdf",
+      "report_name": "NASDAQ_GILD_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GILD_2019.pdf",
+      "report_name": "NASDAQ_GILD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GILD_2017.pdf",
+      "report_name": "NASDAQ_GILD_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GILD_2016.pdf",
+      "report_name": "NASDAQ_GILD_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GILD_2020.pdf",
+      "report_name": "NASDAQ_GILD_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GILD_2021.pdf",
+      "report_name": "NASDAQ_GILD_2021"
+    }
+  ]
+}

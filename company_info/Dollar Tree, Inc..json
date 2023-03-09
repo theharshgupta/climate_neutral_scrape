@@ -1,0 +1,35 @@
+{
+  "info": {
+    "company_name": "Dollar Tree, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/dollar-tree-inc",
+    "ticker_name": "DLTR",
+    "exchange": "NASDAQ",
+    "industry": "Discount, Variety Stores",
+    "sector": "Consumer Goods",
+    "about_company": "Dollar Tree, Inc. operates discount variety stores in the United States. Its stores offer merchandise at the fixed price of $1.00. The company operates stores under the names of Dollar Tree, Deal$, and Dollar Bills.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Chesapeake, Virginia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DLTR_2020.pdf",
+      "report_name": "NASDAQ_DLTR_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DLTR_2018.pdf",
+      "report_name": "NASDAQ_DLTR_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DLTR_2016.pdf",
+      "report_name": "NASDAQ_DLTR_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/d/NASDAQ_DLTR_2021.pdf",
+      "report_name": "NASDAQ_DLTR_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_DLTR_2022.pdf",
+      "report_name": "NASDAQ_DLTR_2022"
+    }
+  ]
+}

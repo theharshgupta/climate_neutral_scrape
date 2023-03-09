@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Camden National Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/camden-national-corporation",
+    "ticker_name": "CAC",
+    "exchange": "NASDAQ",
+    "industry": "Regional - Northeast Banks",
+    "sector": "Financial",
+    "about_company": "Camden National Corporation operates as the holding company for Camden National Bank, which provides commercial and consumer banking products and services to the individuals, businesses, municipalities, non-profits, and commercial customers.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Camden, Maine"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CAC_2019.pdf",
+      "report_name": "NASDAQ_CAC_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/c/NASDAQ_CAC_2020.pdf",
+      "report_name": "NASDAQ_CAC_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CAC_2021.pdf",
+      "report_name": "NASDAQ_CAC_2021"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Juniper Networks Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/juniper-networks-inc",
+    "ticker_name": "JNPR",
+    "exchange": "NASDAQ",
+    "industry": "Networking & Communication Devices",
+    "sector": "Technology",
+    "about_company": "Juniper Networks, Inc. designs, develops, and sells products and services that provide network infrastructure used for the deployment of services and applications over a single Internet Protocol (IP) based network worldwide.",
+    "num_employees": "5001-10,000 Employees",
+    "location": "Based in Sunnyvale, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/j/NASDAQ_JNPR_2019.pdf",
+      "report_name": "NASDAQ_JNPR_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_JNPR_2021.pdf",
+      "report_name": "NASDAQ_JNPR_2021"
+    }
+  ]
+}

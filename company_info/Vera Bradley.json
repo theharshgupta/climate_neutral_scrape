@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Vera Bradley",
+    "company_url": "https://www.responsibilityreports.com/Company/vera-bradley",
+    "ticker_name": "VRA",
+    "exchange": "NASDAQ",
+    "industry": "Textile - Apparel Footwear & Accessories",
+    "sector": "Consumer Goods",
+    "about_company": "Vera Bradley, Inc. is a leading designer of women's handbags and accessories, luggage and travel items, eyewear, stationery and gifts. Founded in 1982 by friends Barbara Bradley Baekgaard and Patricia R. Miller, the brand's iconic designs and versatile styles offer women of all ages a colorful way to accessorize.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Roanoke, Indiana"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/v/NASDAQ_VRA_2021.pdf",
+      "report_name": "NASDAQ_VRA_2021"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/v/NASDAQ_VRA_2020.pdf",
+      "report_name": "NASDAQ_VRA_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_VRA_2022.pdf",
+      "report_name": "NASDAQ_VRA_2022"
+    }
+  ]
+}

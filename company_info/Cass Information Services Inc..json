@@ -1,0 +1,19 @@
+{
+  "info": {
+    "company_name": "Cass Information Services Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/cass-information-services-inc",
+    "ticker_name": "CASS",
+    "exchange": "NASDAQ",
+    "industry": "Business Services",
+    "sector": "Industrial Goods",
+    "about_company": "Cass Information Systems, Inc. provides payment and information processing services to manufacturing, distribution, and retail enterprises in the United States.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in St. Louis, Missouri"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_CASS_2021.pdf",
+      "report_name": "NASDAQ_CASS_2021"
+    }
+  ]
+}

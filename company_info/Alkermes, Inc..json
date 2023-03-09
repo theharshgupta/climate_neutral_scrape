@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "Alkermes, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/alkermes-inc",
+    "ticker_name": "ALKS",
+    "exchange": "NASDAQ",
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "about_company": "Alkermes, Inc., an integrated biotechnology company, provides extended-release injectable and oral products for the treatment of prevalent and chronic diseases, such as central nervous system disorders, reward disorders, addiction, diabetes, and autoimmune disorders.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Dublin, Ireland"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ALKS_2017.pdf",
+      "report_name": "NASDAQ_ALKS_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ALKS_2019.pdf",
+      "report_name": "NASDAQ_ALKS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ALKS_2020.pdf",
+      "report_name": "NASDAQ_ALKS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ALKS_2021.pdf",
+      "report_name": "NASDAQ_ALKS_2021"
+    }
+  ]
+}

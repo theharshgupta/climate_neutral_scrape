@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "ASM International NV",
+    "company_url": "https://www.responsibilityreports.com/Company/asm-international-nv",
+    "ticker_name": "ASMI",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor Equipment & Materials",
+    "sector": "Technology",
+    "about_company": "ASM International NV, headquartered in Almere, the Netherlands, its subsidiaries and participations design and manufacture equipment and materials used to produce semiconductor devices. ASM International, its subsidiaries and participations provide production solutions for wafer processing (Front-end segment) as well as for assembly & packaging and surface mount technology (Back-end segment\u2026More",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Almere, Netherlands"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ASMI_2015.pdf",
+      "report_name": "NASDAQ_ASMI_2015"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ASMI_2014.pdf",
+      "report_name": "NASDAQ_ASMI_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ASMI_2016.pdf",
+      "report_name": "NASDAQ_ASMI_2016"
+    }
+  ]
+}

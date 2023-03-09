@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "EXACT Sciences Corp.",
+    "company_url": "https://www.responsibilityreports.com/Company/exact-sciences-corp",
+    "ticker_name": "EXAS",
+    "exchange": "NASDAQ",
+    "industry": "Biotechnology",
+    "sector": "Healthcare",
+    "about_company": "Exact Sciences Corporation, a molecular diagnostics company, focuses on developing a molecular diagnostic screening technology for the early detection and prevention of colorectal pre-cancer and cancer. The company develops Cologuard, a stool-based DNA colorectal cancer screening test that is designed to detect each of the four stages of colorectal cancer, as well as pre-cancerous lesions.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Madison, Wisconsin"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXAS_2019.pdf",
+      "report_name": "NASDAQ_EXAS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/e/NASDAQ_EXAS_2020.pdf",
+      "report_name": "NASDAQ_EXAS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_EXAS_2021.pdf",
+      "report_name": "NASDAQ_EXAS_2021"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Synopsys",
+    "company_url": "https://www.responsibilityreports.com/Company/synopsys",
+    "ticker_name": "SNPS",
+    "exchange": "NASDAQ",
+    "industry": "Technical & System Software",
+    "sector": "Technology",
+    "about_company": "Synopsys Inc. is the world leader in electronic design automation (EDA) software for integrated circuit (IC) design.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Mountain View, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SNPS_2019.pdf",
+      "report_name": "NASDAQ_SNPS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SNPS_2020.pdf",
+      "report_name": "NASDAQ_SNPS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_SNPS_2021.pdf",
+      "report_name": "NASDAQ_SNPS_2021"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "info": {
+    "company_name": "ANSYS Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/ansys-inc",
+    "ticker_name": "ANSS",
+    "exchange": "NASDAQ",
+    "industry": "Application Software",
+    "sector": "Technology",
+    "about_company": "ANSYS, Inc. develops and markets engineering simulation software and technologies used by engineers, designers, researchers, and students in aerospace, automotive, manufacturing, electronics, biomedical, energy, and defense industries and academia worldwide.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Canonsburg, Pennsylvania"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ANSS_2019.pdf",
+      "report_name": "NASDAQ_ANSS_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ANSS_2018.pdf",
+      "report_name": "NASDAQ_ANSS_2018"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/a/NASDAQ_ANSS_2020.pdf",
+      "report_name": "NASDAQ_ANSS_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_ANSS_2021.pdf",
+      "report_name": "NASDAQ_ANSS_2021"
+    }
+  ]
+}

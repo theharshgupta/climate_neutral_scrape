@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Lululemon Athletica Inc",
+    "company_url": "https://www.responsibilityreports.com/Company/lululemon-athletica-inc",
+    "ticker_name": "LULU",
+    "exchange": "NASDAQ",
+    "industry": "Textile - Apparel Clothing",
+    "sector": "Consumer Goods",
+    "about_company": "lululemon athletica inc. (NASDAQ:LULU) is a yoga-inspired athletic apparel company with products that create transformational experiences for people to live happy, healthy, fun lives. Setting the bar in technical fabrics and functional designs, lululemon works with yogis and athletes in local communities for continuous research and product feedback.",
+    "num_employees": "10,000+ Employees",
+    "location": "Based in Vancouver, British Columbia"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/l/NASDAQ_LULU_2020.pdf",
+      "report_name": "NASDAQ_LULU_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_LULU_2021.pdf",
+      "report_name": "NASDAQ_LULU_2021"
+    }
+  ]
+}

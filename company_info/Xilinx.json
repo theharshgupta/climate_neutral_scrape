@@ -1,0 +1,39 @@
+{
+  "info": {
+    "company_name": "Xilinx",
+    "company_url": "https://www.responsibilityreports.com/Company/xilinx",
+    "ticker_name": "XLNX",
+    "exchange": "NASDAQ",
+    "industry": "Semiconductor - Specialized",
+    "sector": "Technology",
+    "about_company": "Xilinx, Inc. designs, develops, and markets programmable platforms worldwide. Its programmable platforms include integrated circuits in the form of programmable logic devices (PLDs); software design tools; targeted reference designs; printed circuit boards; and predefined system functions delivered as intellectual property cores.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in San Jose, California"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/x/NASDAQ_XLNX_2017.pdf",
+      "report_name": "NASDAQ_XLNX_2017"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/x/NASDAQ_XLNX_2014.pdf",
+      "report_name": "NASDAQ_XLNX_2014"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/x/NASDAQ_XLNX_2016.pdf",
+      "report_name": "NASDAQ_XLNX_2016"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/x/NASDAQ_XLNX_2015.PDF",
+      "report_name": "NASDAQ_XLNX_2015.PDF"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/x/NASDAQ_XLNX_2019.pdf",
+      "report_name": "NASDAQ_XLNX_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_XLNX_2020.pdf",
+      "report_name": "NASDAQ_XLNX_2020"
+    }
+  ]
+}

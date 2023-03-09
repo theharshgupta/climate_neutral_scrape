@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "PDC Energy",
+    "company_url": "https://www.responsibilityreports.com/Company/pdc-energy",
+    "ticker_name": "PETD",
+    "exchange": "NASDAQ",
+    "industry": "Oil & Gas Equipment & Services",
+    "sector": "Energy",
+    "about_company": "Petroleum Development Corporation, doing business as PDC Energy, engages in the acquisition, exploration, development, production, and marketing of natural gas, natural gas liquids, and crude oil in the United States. The company operates in two segments, Oil and Gas Exploration and Production, and Gas Marketing.",
+    "num_employees": "501-1000 Employees",
+    "location": "Based in Denver, Colorado"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PETD_2020.pdf",
+      "report_name": "NASDAQ_PETD_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/p/NASDAQ_PETD_2019.pdf",
+      "report_name": "NASDAQ_PETD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_PETD_2021.pdf",
+      "report_name": "NASDAQ_PETD_2021"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "info": {
+    "company_name": "Superior Group of Companies, Inc.",
+    "company_url": "https://www.responsibilityreports.com/Company/superior-group-of-companies-inc",
+    "ticker_name": "SGC",
+    "exchange": "NASDAQ",
+    "industry": "Apparel Stores",
+    "sector": "Consumer Goods",
+    "about_company": "Superior Group of Companies\u2122, formerly Superior Uniform Group, established in 1920, is a combination of companies that help their customers unlock the power of their brands by creating extraordinary brand experiences for their employees and customers. They provide customized support for each of their divisions through their shared services model.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Seminole, Florida"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/s/NASDAQ_SGC_2019.pdf",
+      "report_name": "NASDAQ_SGC_2019"
+    },
+    {
+      "pdf_url": "https://e.issuu.com/embed.html?d=sgc-esg_report-0729&hideIssuuLogo=true&u=cidresources",
+      "report_name": "embed.html?d=sgc-esg_report-0729&hideIssuuLogo=true&u=cidresources"
+    }
+  ]
+}

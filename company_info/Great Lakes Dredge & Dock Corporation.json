@@ -1,0 +1,27 @@
+{
+  "info": {
+    "company_name": "Great Lakes Dredge & Dock Corporation",
+    "company_url": "https://www.responsibilityreports.com/Company/great-lakes-dredge-dock-corporation",
+    "ticker_name": "GLDD",
+    "exchange": "NASDAQ",
+    "industry": "Heavy Construction",
+    "sector": "Industrial Goods",
+    "about_company": "Great Lakes Dredge & Dock Corporation engages in the business of marine construction, primarily dredging, and commercial and industrial demolition principally in the east, west, and Gulf Coasts of the United States. It operates in two segments, Dredging and Demolition.",
+    "num_employees": "1001-5000 Employees",
+    "location": "Based in Houston,Texas"
+  },
+  "reports": [
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GLDD_2019.pdf",
+      "report_name": "NASDAQ_GLDD_2019"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/g/NASDAQ_GLDD_2020.pdf",
+      "report_name": "NASDAQ_GLDD_2020"
+    },
+    {
+      "pdf_url": "https://www.responsibilityreports.com/HostedData/ResponsibilityReports/PDF/NASDAQ_GLDD_2021.pdf",
+      "report_name": "NASDAQ_GLDD_2021"
+    }
+  ]
+}

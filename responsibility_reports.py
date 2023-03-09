@@ -74,15 +74,38 @@ class ResponsibilityReport:
         with open('name_url_mapping.json') as f:
             self.company_urls = json.load(f)
 
-        for i, (name, url) in enumerate(self.company_urls.items()):
+        for i, (name, url,) in enumerate(self.company_urls.items()):
+            try:
+                f = open(f"company_info/{name.replace('/', '')}.json", mode="r", encoding="utf-8")
+                f.close()
+                continue
+            except FileNotFoundError:
+                pass
+
+            old_report_links = set()
             self.driver.get(url)
-            time.sleep(2)
+            time.sleep(1)
             info = self.driver.find_element(By.CLASS_NAME, 'left_list_block').text.split("\n")
-            ticker_name = info[1]
-            exchange = info[3].replace("More", "").strip()
-            industry = info[5].replace("More", "").strip()
-            sector = info[7].replace("More", "").strip()
-            about_company = self.driver.find_element(By.CLASS_NAME, 'company_description')
+            try:
+                ticker_name = info[1]
+            except Exception:
+                ticker_name = "NOTFOUND"
+            try:
+                exchange = info[3].replace("More", "").strip()
+            except Exception:
+                exchange = "NA"
+            try:
+                industry = info[5].replace("More", "").strip()
+            except Exception as e:
+                industry = "NA"
+            try:
+                sector = info[7].replace("More", "").strip()
+            except Exception as e:
+                sector = "NA"
+            try:
+                about_company = self.driver.find_element(By.CLASS_NAME, 'company_description')
+            except Exception:
+                about_company = "NA"
             try:
                 num_employees = self.driver.find_element(By.CLASS_NAME, 'employees')
             except NoSuchElementException:
@@ -91,7 +114,10 @@ class ResponsibilityReport:
                 location = self.driver.find_element(By.CLASS_NAME, 'location')
             except NoSuchElementException:
                 location = "NA"
-            all_links = self.driver.find_elements(By.TAG_NAME, 'a')
+            try:
+                all_links = self.driver.find_elements(By.TAG_NAME, 'a')
+            except Exception:
+                all_links = []
             company_data = {
                 'info': {
                     'company_name': name,
@@ -110,9 +136,9 @@ class ResponsibilityReport:
             for link in all_links:
                 link_href = link.get_attribute('href')
                 if link_href and "HostedData" in link_href:
-                    self.old_report_links.add(link_href)
+                    old_report_links.add(link_href)
 
-            for link in self.old_report_links:
+            for link in old_report_links:
                 company_map[name]["reports"].append({
                     "pdf_url": link,
                     "report_name": extract_name_from_link(link)
@@ -133,8 +159,8 @@ class ResponsibilityReport:
             except Exception as e:
                 print(f"Error: {e}")
             # print(company_map)
-        with open("responsibility_reports.json", mode="w", encoding="utf-8") as f:
-            json.dump(obj=company_map, fp=f, indent=2, default=str)
+            with open(f"company_info/{name.replace('/', '')}.json", mode="w", encoding="utf-8") as f:
+                json.dump(obj=company_map[name], fp=f, indent=2, default=str)
 
         # with open("responsibility_reports_data.json", mode="w", encoding="utf-8") as f:
         #     json.dump(obj=self.output, fp=f, indent=2, default=str)
